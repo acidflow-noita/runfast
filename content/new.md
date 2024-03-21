@@ -2,7 +2,6 @@
 title = '5-minute guide for novice players'
 date = 2024-03-22T04:26:42+06:00
 draft = true
-toc = true
 +++
 
 {{< callout type="info" emoji="🪄">}}
