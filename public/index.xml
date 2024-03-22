@@ -1,1 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>by WUOTE – Make Noita Fun Again</title><link>https://runfast.stream/</link><description>Recent content in Make Noita Fun Again on by WUOTE</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 04:20:07 +0600</lastBuildDate><atom:link href="https://runfast.stream/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>by WUOTE – Make Noita Fun Again</title>
+    <link>https://runfast.stream/</link>
+    <description>Recent content in Make Noita Fun Again on by WUOTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 04:20:07 +0600</lastBuildDate>
+    
+	  <atom:link href="https://runfast.stream/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
