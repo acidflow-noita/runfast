@@ -1,8 +1,9 @@
-+++
-title = 'Streamer Wands'
-date = 2024-03-22T04:23:54+06:00
-draft = false
-+++
+---
+title: Streamer Wands
+date: 2024-03-22T04:23:54+06:00
+draft: false
+type: docs
+---
 
 ## Let your viewers see your Noita wands without opening inventory
 

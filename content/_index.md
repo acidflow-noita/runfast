@@ -1,8 +1,8 @@
-+++
-title = 'Make Noita Fun Again'
-date = 2024-03-22T04:20:07+06:00
-draft = false
-+++
+---
+title: Make Noita Fun Again
+date: 2024-03-22T04:20:07+06:00
+draft: false
+---
 
 {{< cards >}}
 {{< card link="/new" title="New to Noita?" image="images/newcard.webp" icon="link" subtitle="Speedrun your understanding of the game in **5 minutes** to get the first win" method="Resize" options="600x q80 webp" >}}

@@ -1,8 +1,9 @@
-+++
-title = '5-minute guide for novice players'
-date = 2024-03-22T04:26:42+06:00
-draft = false
-+++
+---
+title: 5-minute guide for novice players
+date: 2024-03-22T04:26:42+06:00
+draft: false
+type: docs
+---
 
 {{< callout type="info" emoji="🪄">}}
 You just bought Noita? **Congrats**! Here's _everything_ you need to know to hit the ground running!

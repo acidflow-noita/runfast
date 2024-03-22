@@ -1,8 +1,8 @@
-+++
-title = 'Tools for Streaming Noita on Twitch'
-date = 2024-03-22T04:22:09+06:00
-draft = false
-+++
+---
+title: Tools for Streaming Noita on Twitch
+date: 2024-03-22T04:22:09+06:00
+draft: false
+---
 
 {{< cards >}}
 {{< card  link="/twitch/7tv/" title="Noita spells in your chat as 7tv emotes" icon="link" image="/images/chatcard.webp" subtitle="Clear visual indication of wand builds as suggested by your viewers" method="Resize" options="600x q80 webp" >}}

@@ -1,9 +1,9 @@
-+++
-title = 'Noita Spells as 7tv Emotes'
-date = 2024-03-22T04:24:46+06:00
-draft = false
-+++
-
+---
+title: Noita Spells as 7tv Emotes
+date: 2024-03-22T04:24:46+06:00
+draft: false
+type: docs
+---
 ## Add every single Noita spell as a 7tv emote to your chat — in 7 clicks
 
 ![](/images/chatcard.webp)
