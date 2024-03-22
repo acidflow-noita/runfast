@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>by WUOTE – Tools for Streaming Noita on Twitch</title>
-    <link>https://runfast.stream/twitch/</link>
+    <link>http://localhost:1313/twitch/</link>
     <description>Recent content in Tools for Streaming Noita on Twitch on by WUOTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2024 04:22:09 +0600</lastBuildDate>
     
-	  <atom:link href="https://runfast.stream/twitch/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/twitch/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,15 +17,15 @@
     
     <item>
       <title>Noita Spells as 7tv Emotes</title>
-      <link>https://runfast.stream/twitch/7tv/</link>
+      <link>http://localhost:1313/twitch/7tv/</link>
       <pubDate>Fri, 22 Mar 2024 04:24:46 +0600</pubDate>
       
-      <guid>https://runfast.stream/twitch/7tv/</guid>
+      <guid>http://localhost:1313/twitch/7tv/</guid>
       <description>
         
         
         &lt;h2&gt;Add every single Noita spell as a 7tv emote to your chat — in 7 clicks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;add-every-single-noita-spell-as-a-7tv-emote-to-your-chat--in-7-clicks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#add-every-single-noita-spell-as-a-7tv-emote-to-your-chat--in-7-clicks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://runfast.stream/images/chatcard.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#add-every-single-noita-spell-as-a-7tv-emote-to-your-chat--in-7-clicks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/chatcard.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -67,11 +67,11 @@
     &lt;a href=&#34;#access-granted&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;I give you access to the emote set.&lt;/p&gt;
 &lt;h3&gt;Go to your profile on 7tv&lt;span class=&#34;absolute -mt-20&#34; id=&#34;go-to-your-profile-on-7tv&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#go-to-your-profile-on-7tv&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Click on your name on 7tv in the top right corner, you will see &lt;code&gt;Your-channel-name&#39;s Emotes&lt;/code&gt; set, you will be adding Noita Spell emotes to this set.
-&lt;img src=&#34;https://runfast.stream/images/7tv_main_channels_emotes_set.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/7tv_main_channels_emotes_set.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Add Origin and Assign to your channel&lt;span class=&#34;absolute -mt-20&#34; id=&#34;add-origin-and-assign-to-your-channel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#add-origin-and-assign-to-your-channel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Click the spanner icon &lt;span class=&#34;inline-block align-text-bottom icon&#34;&gt;&lt;svg height=1em class=&#34;svg-inline--fa fa-wrench&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; data-prefix=&#34;fass&#34; data-icon=&#34;wrench&#34; role=&#34;img&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; data-v-7a3573b5=&#34;&#34;&gt;&lt;path class=&#34;&#34; fill=&#34;currentColor&#34; d=&#34;M352 320c88.4 0 160-71.6 160-160c0-23.5-5.1-45.8-14.1-65.9L400 192H320V112l97.9-97.9C397.8 5.1 375.5 0 352 0C263.6 0 192 71.6 192 160c0 19.1 3.4 37.5 9.5 54.5L0 416l96 96L297.5 310.5c17 6.2 35.4 9.5 54.5 9.5zM137.9 408L104 441.9 70.1 408 104 374.1 137.9 408z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
 and select &lt;code&gt;Noita Spells&lt;/code&gt; in the dropdown, then select &amp;ldquo;&lt;code&gt;Assign to channel(s)&lt;/code&gt;&amp;rdquo;, then save changes.
-&lt;img src=&#34;https://runfast.stream/images/7tv_origin_added.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/7tv_origin_added.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Enjoy&lt;span class=&#34;absolute -mt-20&#34; id=&#34;enjoy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#enjoy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;That&amp;rsquo;s it! It might take 5-10 minutes for 7tv to reflect the changes, but after that anyone will be able to type something like &lt;code&gt;:ACID&lt;/code&gt; and press &lt;code&gt;Tab&lt;/code&gt; to autocomplete the selected spell name.&lt;/p&gt;
 &lt;/div&gt;
@@ -89,15 +89,15 @@ and select &lt;code&gt;Noita Spells&lt;/code&gt; in the dropdown, then select &a
     
     <item>
       <title>Streamer Wands</title>
-      <link>https://runfast.stream/twitch/streamerwandsmanual/</link>
+      <link>http://localhost:1313/twitch/streamerwandsmanual/</link>
       <pubDate>Fri, 22 Mar 2024 04:23:54 +0600</pubDate>
       
-      <guid>https://runfast.stream/twitch/streamerwandsmanual/</guid>
+      <guid>http://localhost:1313/twitch/streamerwandsmanual/</guid>
       <description>
         
         
         &lt;h2&gt;Let your viewers see your Noita wands without opening inventory&lt;span class=&#34;absolute -mt-20&#34; id=&#34;let-your-viewers-see-your-noita-wands-without-opening-inventory&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#let-your-viewers-see-your-noita-wands-without-opening-inventory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://runfast.stream/images/streamer_wands_screenshot.webp&#34; alt=&#34;Streamer wands website screenshot&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#let-your-viewers-see-your-noita-wands-without-opening-inventory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/streamer_wands_screenshot.webp&#34; alt=&#34;Streamer wands website screenshot&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
