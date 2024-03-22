@@ -26,6 +26,10 @@ menu:
     - name: Noita Wayback Machine ↗
       url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
       weight: 3
+    - name: Search
+      params:
+        type: search
+      weight: 4
     - name: Contribute on GitHub
       url: "https://github.com/orgs/acidflow-noita/repositories"
       weight: 5
@@ -39,16 +43,16 @@ menu:
       weight: 1
     - name: Noita Map ↗
       url: "https://map.runfast.stream/"
-      weight: 1
+      weight: 2
     - name: My Noita Mods on Steam ↗
       url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-      weight: 2
+      weight: 3
     - name: Noita Wayback Machine ↗
       url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-      weight: 3
+      weight: 4
     - name: GitHub ↗
       url: "https://github.com/orgs/acidflow-noita/repositories"
-      weight: 4
+      weight: 5
 
 params:
   navbar:
