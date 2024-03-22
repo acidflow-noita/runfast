@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/new/</loc>
+    <loc>https://runfast.stream/new/</loc>
     <lastmod>2024-03-22T04:26:42+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/twitch/7tv/</loc>
+    <loc>https://runfast.stream/twitch/7tv/</loc>
     <lastmod>2024-03-22T04:24:46+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/twitch/streamerwandsmanual/</loc>
+    <loc>https://runfast.stream/twitch/streamerwandsmanual/</loc>
     <lastmod>2024-03-22T04:23:54+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/twitch/</loc>
+    <loc>https://runfast.stream/twitch/</loc>
     <lastmod>2024-03-22T04:22:09+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://runfast.stream/</loc>
     <lastmod>2024-03-22T04:20:07+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://runfast.stream/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://runfast.stream/tags/</loc>
   </url>
 </urlset>
