@@ -1,7 +1,7 @@
 +++
 title = '5-minute guide for novice players'
 date = 2024-03-22T04:26:42+06:00
-draft = true
+draft = false
 +++
 
 {{< callout type="info" emoji="🪄">}}
@@ -161,7 +161,7 @@ In each biome try to look for hearts, spells, and wands. Manage your health: no 
 
 ### Mines
 
-Try collecting `400` gold, ideally `800`, grab a tablet, the best naturally spawning wand you can find is a `10-7` shuffle wand.
+Try collecting `400` gold, ideally `800`, grab a tablet. The best naturally spawning wand you can find is a `10-7` shuffle wand, which is a wand with `0.10` seconds of cast delay and `0.07` seconds of reload time (sort of a natural machine gun wand which looks like this {{< icon "10-7-icon" >}} )."
 
 ### Coal Pits
 

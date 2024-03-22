@@ -13,49 +13,39 @@ markup:
     noClasses: false
 menu:
   main:
-    - identifier: map
-      name: Noita Map ↗
+    - name: Noita Map ↗
       url: "https://map.runfast.stream"
       weight: 1
-    - identifier: mods
-      name: My Noita Mods on Steam ↗
+    - name: My Noita Mods on Steam ↗
       url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
       weight: 2
-    - identifier: wayback
-      name: Noita Wayback Machine ↗
+    - name: Noita Wayback Machine ↗
       url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
       weight: 3
-    - identifier: search
-      name: Search
+    - name: Search
       weight: 4
       params:
         type: search
-    - identifier: github
-      name: Contribute on GitHub
+    - name: Contribute on GitHub
       url: "https://github.com/orgs/acidflow-noita/repositories"
       weight: 5
       params:
         icon: github
   sidebar:
-    - identifier: morelinks
-      name: More stuff!
+    - name: More stuff!
       params:
         type: separator
       weight: 1
-    - identifier: map
-      name: Noita Map ↗
+    - name: Noita Map ↗
       url: "https://map.runfast.stream/"
       weight: 1
-    - identifier: mods
-      name: My Noita Mods on Steam ↗
+    - name: My Noita Mods on Steam ↗
       url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
       weight: 2
-    - identifier: wayback
-      name: Noita Wayback Machine ↗
+    - name: Noita Wayback Machine ↗
       url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
       weight: 3
-    - identifier: github
-      name: GitHub ↗
+    - name: GitHub ↗
       url: "https://github.com/orgs/acidflow-noita/repositories"
       weight: 4
 params:

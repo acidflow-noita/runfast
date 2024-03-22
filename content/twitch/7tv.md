@@ -1,7 +1,7 @@
 +++
 title = 'Noita Spells as 7tv Emotes'
 date = 2024-03-22T04:24:46+06:00
-draft = true
+draft = false
 +++
 
 ## Add every single Noita spell as a 7tv emote to your chat — in 7 clicks

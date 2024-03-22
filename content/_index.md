@@ -1,7 +1,7 @@
 +++
 title = 'Make Noita Fun Again'
 date = 2024-03-22T04:20:07+06:00
-draft = true
+draft = false
 +++
 
 {{< cards >}}
