@@ -46,7 +46,7 @@ That's it! It might take 5-10 minutes for 7tv to reflect the changes, but after 
 
 {{% /steps %}}
 
-### TLDR: 20-sec long video
+### TLDR: 20-sec. video
 
 {{< youtube GLBMW0mkoGY >}}
 
