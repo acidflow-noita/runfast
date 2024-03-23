@@ -3,85 +3,88 @@ languageCode: en-us
 title: by WUOTE
 
 module:
-    imports:
-        - path: github.com/imfing/hextra
+  imports:
+    - path: github.com/imfing/hextra
 
 enableInlineShortcodes: true
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
 
 menu:
-    main:
-        - name: Noita Map ↗
-          url: "https://map.runfast.stream"
-          weight: 1
-        - name: My Noita Mods on Steam ↗
-          url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-          weight: 2
-        - name: Noita Wayback Machine ↗
-          url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-          weight: 3
-        - name: WUOTE's artisan copypastas
-          pageRef: /pastas
-          weight: 4
-        - name: Contribute on GitHub
-          url: "https://github.com/orgs/acidflow-noita/repositories"
-          weight: 5
-          params:
-              icon: github
+  main:
+    - name: Noita Map ↗
+      url: "https://map.runfast.stream"
+      weight: 1
+    - name: My Noita Mods on Steam ↗
+      url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
+      weight: 2
+    - name: Noita Wayback Machine ↗
+      url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
+      weight: 3
+    - name: WUOTE's artisan copypastas
+      pageRef: /pastas
+      weight: 4
+    - name: Contribute on GitHub
+      url: "https://github.com/orgs/acidflow-noita/repositories"
+      weight: 5
+      params:
+          icon: github
 
-    sidebar:
-        - name: More stuff!
-          params:
-              type: separator
-          weight: 1
-        - name: Noita Map ↗
-          url: "https://map.runfast.stream/"
-          weight: 1
-        - name: My Noita Mods on Steam ↗
-          url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-          weight: 2
-        - name: Noita Wayback Machine ↗
-          url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-          weight: 3
-        - name: GitHub ↗
-          url: "https://github.com/orgs/acidflow-noita/repositories"
-          weight: 4
-        - name: WUOTE's artisan copypastas
-          pageRef: /pastas
-          weight: 5
-
+  sidebar:
+    - name: More stuff!
+      params:
+        type: separator
+      weight: 1
+    - name: Noita Map ↗
+      url: "https://map.runfast.stream/"
+      weight: 1
+    - name: My Noita Mods on Steam ↗
+      url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
+      weight: 2
+    - name: Noita Wayback Machine ↗
+      url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
+      weight: 3
+    - name: WUOTE's artisan copypastas
+      pageRef: /pastas
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - name: GitHub ↗
+      url: "https://github.com/orgs/acidflow-noita/repositories"
+      weight: 6
 params:
-    navbar:
-        width: normal
-        displayTitle: true
-        displayLogo: true
-        logo:
-            path: images/logo.svg
-            dark: images/logo-dark.svg
-            link: /
-            width: 100
-            height: 50
+  navbar:
+    width: normal
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 100
+      height: 50
 
-    footer:
-        disabled: true
-        displayCopyright: true
-        displayPoweredBy: false
+  footer:
+    disabled: true
+    displayCopyright: true
+    displayPoweredBy: false
 
-    theme:
-        default: dark
-        displayToggle: false
+  theme:
+    default: dark
+    displayToggle: false
 
-    page:
-        width: normal
+  page:
+    width: normal
 
-    search:
-        enable: true
-        type: flexsearch
-        flexsearch:
-            index: content
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
