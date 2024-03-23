@@ -1,4 +1,4 @@
-module github.com/WUOTE/runfast
+module github.com/acidflow-noita/runfast
 
 go 1.22.1
 

@@ -29,36 +29,37 @@ menu:
     - name: WUOTE's artisan copypastas
       pageRef: /pastas
       weight: 4
-    - name: Contribute on GitHub
-      url: "https://github.com/orgs/acidflow-noita/repositories"
-      weight: 5
-      params:
-          icon: github
-
-  sidebar:
-    - name: More stuff!
-      params:
-        type: separator
-      weight: 1
-    - name: Noita Map ↗
-      url: "https://map.runfast.stream/"
-      weight: 1
-    - name: My Noita Mods on Steam ↗
-      url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-      weight: 2
-    - name: Noita Wayback Machine ↗
-      url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-      weight: 3
-    - name: WUOTE's artisan copypastas
-      pageRef: /pastas
-      weight: 4
     - name: Search
       weight: 5
       params:
         type: search
-    - name: GitHub ↗
+    - name: Contribute on GitHub
       url: "https://github.com/orgs/acidflow-noita/repositories"
       weight: 6
+      params:
+        icon: github
+
+sidebar:
+  - name: More stuff!
+    params:
+      type: separator
+    weight: 1
+  - name: Noita Map ↗
+    url: "https://map.runfast.stream/"
+    weight: 1
+  - name: My Noita Mods on Steam ↗
+    url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
+    weight: 2
+  - name: Noita Wayback Machine ↗
+    url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
+    weight: 3
+  - name: WUOTE's artisan copypastas
+    pageRef: /pastas
+    weight: 4
+  - name: GitHub ↗
+    url: "https://github.com/orgs/acidflow-noita/repositories"
+    weight: 5
+
 params:
   navbar:
     width: normal
@@ -88,3 +89,4 @@ params:
     type: flexsearch
     flexsearch:
       index: content
+      tokenize: full
