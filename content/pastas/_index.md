@@ -5,7 +5,7 @@ type: docs
 ---
 
 {{< cards >}}
-{{< card link="/pastas/Acid" title="ACID" >}}
+{{< card link="/pastas/acid" title="ACID" >}}
 {{< card link="/pastas/add-mana" title="ADD MANA" >}}
 {{< card link="/pastas/addiction" title="💉 ADDICTION" >}}
 {{< card link="/pastas/adult-stuff" title="ADULT STUFF" >}}
