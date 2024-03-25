@@ -1,6 +1,6 @@
 baseURL: https://runfast.stream/
 languageCode: en-us
-title: by WUOTE
+title: Run Fast by WUOTE
 
 module:
   imports:
@@ -63,7 +63,7 @@ sidebar:
 params:
   navbar:
     width: normal
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
       path: images/logo.svg
