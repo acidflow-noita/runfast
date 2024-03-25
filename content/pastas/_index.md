@@ -1,5 +1,5 @@
 ---
-title: 🍝 OH NO WUOTE IS TYPING…
+title: 🍝 WUOTE's copypastas
 draft: false
 type: docs
 ---
