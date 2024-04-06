@@ -1,7 +1,8 @@
 ---
 title: Guides and tools for playing and streaming Noita
-date: 2024-03-22T04:20:07+06:00
 draft: false
+sidebar:
+  exclude: true
 ---
 
 {{< cards >}}
