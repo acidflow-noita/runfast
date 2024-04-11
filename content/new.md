@@ -13,67 +13,6 @@ You just bought Noita? **Congrats**! Here's _everything_ you need to know to hit
 
 Hi, I am WUOTE of the ACID Temple. I might have played this game for at least TWO hours. Nowadays I usually coach newer players and help Noita speedrunners optimize their runs.
 
-## Switch to `Beta branch` before you start
-
-Noita has two publicly available build branches: `main` and `beta`. The most important difference is that `beta` branch is **more stable**, since the devs applied large address aware (LAA) patch to otherwise `32-bit` game, so on `beta` Noita is able to use more than `2 GB` of RAM. That increases the game's stability.
-
-Besides that, `beta` branch has more content, and is updated more often. If you want to play the most recent version of Noita, switch to `beta` branch.
-
-Here are store-specific instructions, click on the one that applies to you:
-{{% details title="I bought Noita on Steam" closed="true" %}}
-{{% steps %}}
-
-### Right click on Noita in your Steam library
-
-![Steam accessing properties](/images/Steam/Steam1.webp)
-
-### Select Betas on the left
-
-### Choose `noitabeta - Beta branch` in the dropdown
-
-![Steam switching to beta branch](/images/Steam/Steam2.webp)
-
-### Update the game
-
-![Updating Noita beta](/images/Steam/Steam3.webp)
-
-### You are good to go!
-
-You now should have the most recent version of Noita.
-
-{{% /steps %}}
-{{% /details %}}
-
-{{% details title="I bought Noita on GOG" closed="true" %}}
-{{% steps %}}
-
-### Open GOG
-
-### Open configuration menu
-
-Right click on Noita, choose "`Manage installation`" then "`configure`"
-![GOG Configuration](/images/GOG/gog1.webp)
-
-### Select "`Change private channel password`" from the dropdown menu
-
-![GOG Switching branch](/images/GOG/gog2.webp)
-
-### Enter private channel password
-
-```python {filename="Beta branch password"}
-noitabeta
-```
-
-![GOG beta branch password](/images/GOG/gog3.webp)
-
-### You are good to go!
-
-beta channel should now say noitabeta
-![GOG beta branch active](/images/GOG/gog4.webp)
-
-{{% /steps %}}
-{{% /details %}}
-
 ## General approach
 
 Every single run is winnable! Different players have different playstyles and approaches, to develop your unique play style all you have to do is to play more! My general strategy to win a run is to reduce the number of things I have to pay attention to, that way it's easier to watch the environment, enemies, and loot spawns.
@@ -213,3 +152,64 @@ Use `noita.wiki.gg` instead.
 ## You got this!
 
 Best of luck! Run fast and throw hard!
+
+## Extra step: ~~Switch to `Beta branch` before you start~~ -- At the moment `main` and `beta` branches of the game are aligned, feel free to skip this step
+
+Noita has two publicly available build branches: `main` and `beta`. The most important difference is that `beta` branch is **more stable**, since the devs applied large address aware (LAA) patch to otherwise `32-bit` game, so on `beta` Noita is able to use more than `2 GB` of RAM. That increases the game's stability.
+
+Besides that, `beta` branch has more content, and is updated more often. If you want to play the most recent version of Noita, switch to `beta` branch.
+
+Here are store-specific instructions, click on the one that applies to you:
+{{% details title="I bought Noita on Steam" closed="true" %}}
+{{% steps %}}
+
+### Right click on Noita in your Steam library
+
+![Steam accessing properties](/images/Steam/Steam1.webp)
+
+### Select Betas on the left
+
+### Choose `noitabeta - Beta branch` in the dropdown
+
+![Steam switching to beta branch](/images/Steam/Steam2.webp)
+
+### Update the game
+
+![Updating Noita beta](/images/Steam/Steam3.webp)
+
+### You are good to go!
+
+You now should have the most recent version of Noita.
+
+{{% /steps %}}
+{{% /details %}}
+
+{{% details title="I bought Noita on GOG" closed="true" %}}
+{{% steps %}}
+
+### Open GOG
+
+### Open configuration menu
+
+Right click on Noita, choose "`Manage installation`" then "`configure`"
+![GOG Configuration](/images/GOG/gog1.webp)
+
+### Select "`Change private channel password`" from the dropdown menu
+
+![GOG Switching branch](/images/GOG/gog2.webp)
+
+### Enter private channel password
+
+```python {filename="Beta branch password"}
+noitabeta
+```
+
+![GOG beta branch password](/images/GOG/gog3.webp)
+
+### You are good to go!
+
+beta channel should now say noitabeta
+![GOG beta branch active](/images/GOG/gog4.webp)
+
+{{% /steps %}}
+{{% /details %}}
