@@ -17,15 +17,15 @@ markup:
 
 menu:
   main:
-    - name: Noita Map ↗
-      url: "https://map.runfast.stream"
-      weight: 1
-    - name: My Noita Mods on Steam ↗
-      url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-      weight: 2
-    - name: Noita Wayback Machine ↗
-      url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-      weight: 3
+    # - name: Noita Map ↗
+    #   url: "https://map.runfast.stream"
+    #   weight: 1
+    # - name: My Noita Mods on Steam ↗
+    #   url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
+    #   weight: 2
+    # - name: Noita Wayback Machine ↗
+    #   url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
+    #   weight: 3
     - name: WUOTE's copypastas
       pageRef: /pastas
       weight: 4

@@ -1,0 +1,1 @@
+:root{--primary-hue:9.8deg;--primary-saturation:90%}@media not all and (min-width:1024px){.sm\:max-lg\:hx-grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}}
