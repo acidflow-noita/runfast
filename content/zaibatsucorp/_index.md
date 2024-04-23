@@ -2,7 +2,9 @@
 title: Chat commands for 𝙕𝘼𝙄𝘽𝘼𝙏𝙎𝙐 𝘾𝙊𝙍𝙋
 
 date: 2024-03-22T04:20:07+06:00
-draft: false
+draft: true
+sidebar:
+  exclude: true
 ---
 
 {{< cards >}}

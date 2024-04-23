@@ -1,7 +1,9 @@
 ---
 title: 𝙕𝘼𝙄𝘽𝘼𝙏𝙎𝙐 𝘾𝙊𝙍𝙋's twitch chat commands
 type: docs
-draft: false
+draft: true
+sidebar:
+  exclude: true
 ---
 
 {{% details title="Regular, safe commands" closed="true" %}}
