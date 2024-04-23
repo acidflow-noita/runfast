@@ -26,9 +26,9 @@ menu:
     # - name: Noita Wayback Machine ↗
     #   url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
     #   weight: 3
-    - name: WUOTE's copypastas
-      pageRef: /pastas
-      weight: 4
+    # - name: WUOTE's copypastas
+    #   pageRef: /pastas
+    #   weight: 4
     - name: Search
       weight: 5
       params:

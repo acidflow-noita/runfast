@@ -10,6 +10,7 @@ params:
 ---
 
 {{< cards >}}
+{{< card link="/map"  image="images/dab.png"  icon="link" title="aaaaaa" method="Fit"  >}}
 {{< card link="https://map.runfast.stream" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="Blazing-*fast* zoomable map for Noita" >}}
 {{< card link="/new"  image="images/newcard.webp"  icon="link" subtitle="Speedrun your understanding of the game in **5 minutes** to get the first win" method="Resize" options="600x q80 webp" >}}
 {{< card link="/twitch/" title="Want to stream Noita?" image="images/twitchcard.webp" icon="link" subtitle="These tools will make streaming Noita more enjoyable for both you and your viewers" >}}
