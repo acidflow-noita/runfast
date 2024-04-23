@@ -2,6 +2,8 @@
 title: 🍝 WUOTE's copypastas
 draft: false
 type: docs
+sidebar:
+  exclude: true
 ---
 
 {{< cards >}}
