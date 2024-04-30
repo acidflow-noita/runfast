@@ -19,7 +19,7 @@ Every single run is winnable! Different players have different playstyles and ap
 
 ## The best quality of life setting
 
-This is called "Pouring bind", it allows you immediately start pouring from your water flask to remove stains and put out fire, and then quickly switch back to your main attack wand. You don't have to bind it to mouse buttons, some players use Q key for that.
+This is called "Pouring bind", it allows you immediately start pouring from your water flask to remove stains and put out fire, and then quickly switch back to your main attack wand. You don't have to bind it to mouse buttons, some players use `Q` key for that.
 
 ![Pouring Bind Visualization](/images/HintsAndAdvice/pouring_bind.webp)
 

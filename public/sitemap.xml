@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://runfast.stream/new/</loc>
-    <lastmod>2024-03-22T04:26:42+06:00</lastmod>
-  </url><url>
     <loc>https://runfast.stream/</loc>
+    <lastmod>2024-04-29T05:32:29+06:00</lastmod>
+  </url><url>
+    <loc>https://runfast.stream/new/</loc>
     <lastmod>2024-03-22T04:26:42+06:00</lastmod>
   </url><url>
     <loc>https://runfast.stream/twitch/7tv/</loc>
@@ -19,9 +19,11 @@
   </url><url>
     <loc>https://runfast.stream/pastas/</loc>
   </url><url>
+    <loc>https://runfast.stream/twitch/noita-pastas/</loc>
+  </url><url>
     <loc>https://runfast.stream/pastas/art/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/game/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/game/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/addiction/</loc>
   </url><url>
@@ -33,13 +35,13 @@
   </url><url>
     <loc>https://runfast.stream/pastas/zoom/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/acid/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/acid/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/add-mana/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/add-mana/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/adult-stuff/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/an-someone-explain/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/an-someone-explain/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/capslock-treatment/</loc>
   </url><url>
@@ -59,11 +61,11 @@
   </url><url>
     <loc>https://runfast.stream/pastas/greetings/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/help-me-with-this-game/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/help-me-with-this-game/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/hi-im-new-to-this-channel/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/hi-im-new-to-this-channel/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/how-to-play-noita/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/how-to-play-noita/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/inscryption/</loc>
   </url><url>
@@ -81,13 +83,13 @@
   </url><url>
     <loc>https://runfast.stream/pastas/new-years-resolution/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/noita-review/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/noita-review/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/noita-wand-builds/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/noita-wand-builds/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/normal/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/ok-noita-player/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/ok-noita-player/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/play-this-game-to-become-happy/</loc>
   </url><url>
@@ -97,7 +99,7 @@
   </url><url>
     <loc>https://runfast.stream/pastas/self-introduction/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/speedrunners/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/speedrunners/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/start-a-startup/</loc>
   </url><url>
@@ -107,17 +109,17 @@
   </url><url>
     <loc>https://runfast.stream/pastas/thanks/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/the-best-noita-perk-combo/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/the-best-noita-perk-combo/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/twitch-raid-message-template/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/typical-twitch-steramer/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/words-of-encouragement/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/words-of-encouragement/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/you-are-great-at-noita/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/you-are-great-at-noita/</loc>
   </url><url>
-    <loc>https://runfast.stream/pastas/you-are-the-best-player/</loc>
+    <loc>https://runfast.stream/twitch/noita-pastas/you-are-the-best-player/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/cartel/</loc>
   </url><url>

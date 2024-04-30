@@ -1,0 +1,30 @@
+<div
+  style='font-family:system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"; height:100vh; text-align:center; display:flex; flex-direction:column; align-items:center; justify-content:center'>
+  <div>
+    <style>
+      body {
+        color: #000;
+        background: #fff;
+        margin: 0;
+      }
+
+      .next-error-h1 {
+        border-right: 1px solid rgba(0, 0, 0, 0.3);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          color: #fff;
+          background: #000;
+        }
+
+        .next-error-h1 {
+          border-right: 1px solid rgba(255, 255, 255, 0.3);
+        }
+      }
+    </style>
+    <a href="{{ .Site.BaseURL | relLangURL }}">
+      <img src="/images/plasma.webp" alt="404" style="max-width: 30%; height: auto; margin-top: 50px;" />
+    </a>
+  </div>
+</div>
