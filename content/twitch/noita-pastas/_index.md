@@ -1,5 +1,5 @@
 ---
-title: 🍝Noita copypastas
+title: '🍝 Noita Copypastas'
 draft: false
 ---
 ![You know it's true](/images/plasma.webp)

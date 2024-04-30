@@ -1,5 +1,5 @@
 ---
-title: '🍝Noita Copypastas'
+title: "🍝 Noita Copypastas"
 date: 2024-04-30T10:08:40+06:00
 type: docs
 draft: true
