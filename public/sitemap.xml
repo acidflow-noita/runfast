@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://runfast.stream/</loc>
-    <lastmod>2024-04-29T05:32:29+06:00</lastmod>
+    <lastmod>2024-04-30T10:08:40+06:00</lastmod>
+  </url><url>
+    <loc>https://runfast.stream/twitch/</loc>
+    <lastmod>2024-04-30T10:08:40+06:00</lastmod>
   </url><url>
     <loc>https://runfast.stream/new/</loc>
     <lastmod>2024-03-22T04:26:42+06:00</lastmod>
@@ -11,13 +14,8 @@
     <loc>https://runfast.stream/twitch/7tv/</loc>
     <lastmod>2024-03-22T04:24:46+06:00</lastmod>
   </url><url>
-    <loc>https://runfast.stream/twitch/</loc>
-    <lastmod>2024-03-22T04:24:46+06:00</lastmod>
-  </url><url>
     <loc>https://runfast.stream/twitch/streamerwandsmanual/</loc>
     <lastmod>2024-03-22T04:23:54+06:00</lastmod>
-  </url><url>
-    <loc>https://runfast.stream/twitch/noita-pastas/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/</loc>
   </url><url>
@@ -86,6 +84,8 @@
     <loc>https://runfast.stream/twitch/noita-pastas/noita-review/</loc>
   </url><url>
     <loc>https://runfast.stream/twitch/noita-pastas/noita-wand-builds/</loc>
+  </url><url>
+    <loc>https://runfast.stream/map4/</loc>
   </url><url>
     <loc>https://runfast.stream/pastas/normal/</loc>
   </url><url>
