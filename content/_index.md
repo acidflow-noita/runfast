@@ -2,14 +2,11 @@
 draft: false
 sidebar:
   exclude: true
-params:
-  page:
-    # full (100%), wide (90rem), normal (1280px)
-    width: wide
+layout: hextra-home
 ---
 
 {{< hextra/hero-headline >}}
-  All you need for playing, watching and streaming {{< icon "noita-logo-icon" >}}
+  Everything you need for [playing]({{< relref "/new" >}} "playing"), [watching]({{< relref "/twitch/noita-pastas/" >}} "watching") and [streaming]({{< relref "/twitch" >}} "streaming") {{< icon "noita-logo-icon" >}}
 {{< /hextra/hero-headline >}}
 
 {{< cards >}}
