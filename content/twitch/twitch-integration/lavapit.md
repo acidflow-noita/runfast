@@ -3,8 +3,6 @@ title: 'Lava Pit'
 date: 2024-06-29T01:36:19+06:00
 type: docs
 draft: true
-sidebar:
-  exclude: true
 ---
 
 ![Lava Pit demonstration](/images/twitch-integation/lavapit.gif)

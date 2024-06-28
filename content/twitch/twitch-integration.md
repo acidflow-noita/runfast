@@ -8,5 +8,5 @@ sidebar:
 ---
 
 {{< cards >}}
-{{< card link="/twitch/twitch-integration/lavapit" title="Lava Pit" subtitle="Creates wide pool of lava in glass container under player. It removing terrain and detonates explosives to make place for it" image="/images/twitch-integation/skillsunsetting.gif" icon="" >}}
+{{< card link="/twitch/twitch-integration/lavapit" title="Lava Pit" subtitle="Creates wide pool of lava in glass container under player. It removing terrain and detonates explosives to make place for it" image="/images/twitch-integation/lavapit.gif" icon="" >}}
 {{< /cards >}}
