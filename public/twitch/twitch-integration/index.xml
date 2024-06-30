@@ -5,7 +5,7 @@
     <description>Recent content in Twitch Integration for Noita on Run Fast by WUOTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 02:22:48 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 02:12:57 +1200</lastBuildDate>
     
 	  <atom:link href="https://runfast.stream/twitch/twitch-integration/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,31 +16,805 @@
     
     
     <item>
-      <title>Lavapit 2</title>
-      <link>https://runfast.stream/twitch/twitch-integration/lavapit-2/</link>
-      <pubDate>Sat, 29 Jun 2024 02:32:33 +0600</pubDate>
+      <title>Avoid the Void!™️</title>
+      <link>https://runfast.stream/twitch/twitch-integration/void_circle/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
       
-      <guid>https://runfast.stream/twitch/twitch-integration/lavapit-2/</guid>
+      <guid>https://runfast.stream/twitch/twitch-integration/void_circle/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://runfast.stream/images/twitch-integation/lavapit.gif&#34; alt=&#34;Lava Pit demonstration 2&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Lavapit 2.&lt;/p&gt;
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Can of Worms</title>
+      <link>https://runfast.stream/twitch/twitch-integration/worm_can/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/worm_can/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns 10 &lt;a href=&#34;https://noita.wiki.gg/wiki/Pikkumato&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tiny worms&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Worms deal melee damage, and can detonate explosives. They will not directly harm the player if the player has &lt;a href=&#34;https://noita.wiki.gg/wiki/Melee_Immunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melee Immunity&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
-      <title>Lava Pit</title>
-      <link>https://runfast.stream/twitch/twitch-integration/lavapit/</link>
-      <pubDate>Sat, 29 Jun 2024 01:36:19 +0600</pubDate>
+      <title>NG&#43; Damage</title>
+      <link>https://runfast.stream/twitch/twitch-integration/scale_damage/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
       
-      <guid>https://runfast.stream/twitch/twitch-integration/lavapit/</guid>
+      <guid>https://runfast.stream/twitch/twitch-integration/scale_damage/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://runfast.stream/images/twitch-integation/lavapit.gif&#34; alt=&#34;Lava Pit demonstration&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Creates wide pool of lava in glass container under player. It removing terrain and detonates explosives to make place for it.&lt;/p&gt;
+        &lt;p&gt;Increases damage multipliers for the player, so they take more damage from everything for the rest of the run.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>NG&#43; Enemies</title>
+      <link>https://runfast.stream/twitch/twitch-integration/scale_enemies/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/scale_enemies/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Makes enemies harder to kill and attack faster for the rest of the run.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rainy Day</title>
+      <link>https://runfast.stream/twitch/twitch-integration/rainy_day/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/rainy_day/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a cloud that rains a random liquid.&lt;/p&gt;
+&lt;p&gt;Possible liquids:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Blood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Toxic_Sludge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toxic Sludge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Water&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Slime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Pheromone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pheromone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Acid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Lava&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lava&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Random enemies</title>
+      <link>https://runfast.stream/twitch/twitch-integration/randomize_enemies/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/randomize_enemies/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Every 5 seconds, turns enemies around the player into random other enemies.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Random Flask</title>
+      <link>https://runfast.stream/twitch/twitch-integration/random_flask/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/random_flask/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a flask containing a random liquid at the player&amp;rsquo;s current position.&lt;/p&gt;
+&lt;p&gt;75% chance of spawning certain &lt;a href=&#34;https://noita.wiki.gg/wiki/Category:Materials_tagged_with_magic_liquid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;magic liquids&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleportatium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teleportatium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Polymorphine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polymorphine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Chaotic_Polymorphine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chaotic Polymorphine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Berserkium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berserkium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Pheromone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pheromone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Invisiblium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Invisiblium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;25% chance of spawning a regular liquid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Lava&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Water&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Blood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Whiskey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiskey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Oil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Slime&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Acid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Toxic_Sludge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toxic Sludge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Gunpowder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unstable Gunpowder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Liquid_Fire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liquid Fire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Freezing_Liquid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freezing Liquid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Random Perk</title>
+      <link>https://runfast.stream/twitch/twitch-integration/random_perk/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/random_perk/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Gives the player a random perk. Most perks are positive, but occasionally a negative perk is picked.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Random Teleport</title>
+      <link>https://runfast.stream/twitch/twitch-integration/random_teleport/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/random_teleport/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Teleports the player in a random direction.&lt;/p&gt;
+&lt;p&gt;Can be dangerous if the player is teleported into enemies or dangerous liquids (e.g. lava). Teleporting into lava is quite likely when in the final boss area, which has a large amount of lava above and below.&lt;/p&gt;
+&lt;p&gt;If Teleport Beacon is active, the player will teleport to the beacon instead.&lt;/p&gt;
+&lt;p&gt;If Teleport Rideshare is active, nearby enemies will be teleported along with the player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Replace wand</title>
+      <link>https://runfast.stream/twitch/twitch-integration/wand_replacement/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/wand_replacement/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Replaces one of the player&amp;rsquo;s wands (not necessarily the one they are holding) with a randomly-generated one.&lt;/p&gt;
+&lt;p&gt;If the player has a good wand (e.g. Teleport Bolt), this can make their run more difficult. If they don&amp;rsquo;t (e.g. early in the game), it might give them a better wand.&lt;/p&gt;
+&lt;p&gt;Can be dangerous (depending on which spells are randomly selected) if the player does not notice the wand being replaced.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rogue Black Hole</title>
+      <link>https://runfast.stream/twitch/twitch-integration/rogue_black_hole/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/rogue_black_hole/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a Giga Black Hole, moving in a line towards the position the player was in at the moment it was spawned.&lt;/p&gt;
+&lt;p&gt;Can damage the player if they can&amp;rsquo;t move away in time. Can also generate dangerous debris.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sanic&#39;s curse</title>
+      <link>https://runfast.stream/twitch/twitch-integration/sanic_curse/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/sanic_curse/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Sonic-like rings fly out of the player when they take damage, each containing some of the player&amp;rsquo;s gold. The player has to collect the rings to regain their gold.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sauna</title>
+      <link>https://runfast.stream/twitch/twitch-integration/sauna/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/sauna/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Fills the area with &lt;a href=&#34;https://noita.wiki.gg/wiki/Steam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The player can start to &lt;a href=&#34;https://noita.wiki.gg/wiki/Damage_Types#Suffocation_Damage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suffocate&lt;/a&gt; if they do not find air.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://noita.wiki.gg/wiki/Breathless&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breathless&lt;/a&gt; perk (and the rare &lt;a href=&#34;https://noita.wiki.gg/wiki/Vuoksikivi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;water stone&lt;/a&gt;) will prevent suffocation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Scrambled wands</title>
+      <link>https://runfast.stream/twitch/twitch-integration/shuffle_deck/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/shuffle_deck/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Randomises the position of spells in the player&amp;rsquo;s wands.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Secret Ending</title>
+      <link>https://runfast.stream/twitch/twitch-integration/secret_ending/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/secret_ending/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a stationary black hole and an &lt;a href=&#34;https://noita.wiki.gg/wiki/Eldritch_Portal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eldritch Portal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The tentacles from the Eldritch Portal can damage the player. The black hole can pull in nearby objects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Shadowdragon</title>
+      <link>https://runfast.stream/twitch/twitch-integration/shadowdragon/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/shadowdragon/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a &lt;a href=&#34;https://noita.wiki.gg/wiki/Suomuhauki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Dragon&amp;rdquo;&lt;/a&gt; with reduced bite damage.&lt;/p&gt;
+&lt;p&gt;The dragon will despawn once it has damaged the player for 25% of their max HP, as long as the player&amp;rsquo;s HP is below 50%.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Shrooms</title>
+      <link>https://runfast.stream/twitch/twitch-integration/shrooms/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/shrooms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Makes the player &lt;a href=&#34;https://noita.wiki.gg/wiki/Status_Effects#Tripping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trip&lt;/a&gt; for a while.&lt;/p&gt;
+&lt;p&gt;The tripping effect is not enough to cause a &lt;a href=&#34;https://noita.wiki.gg/wiki/Fungal_Reality_Shift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fungal Reality Shift&lt;/a&gt; by itself.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Shuffle</title>
+      <link>https://runfast.stream/twitch/twitch-integration/shuffle/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/shuffle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Makes all wands in the player&amp;rsquo;s inventory &lt;a href=&#34;https://noita.wiki.gg/wiki/Wands#Shuffle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shuffle&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Slime Squad </title>
+      <link>https://runfast.stream/twitch/twitch-integration/slime_squad/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/slime_squad/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Spicy perks</title>
+      <link>https://runfast.stream/twitch/twitch-integration/spicy_perks/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/spicy_perks/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Surrounds perks in the next Holy Mountain with lava, enclosed in glass.&lt;/p&gt;
+&lt;p&gt;To take a perk, the player has to break the glass to get rid of the lava first.&lt;/p&gt;
+&lt;p&gt;If a &lt;a href=&#34;https://noita.wiki.gg/wiki/Fungal_Reality_Shift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fungal shift&lt;/a&gt; (e.g. from Tripping Balls) has removed lava, this option will likely be less dangerous.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spiderman</title>
+      <link>https://runfast.stream/twitch/twitch-integration/spiderman/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/spiderman/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Temporarily gives the player, and nearby enemies, the &lt;a href=&#34;https://noita.wiki.gg/wiki/Lukki_Mutation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lukki Mutation&lt;/a&gt; perk (spider legs).&lt;/p&gt;
+&lt;p&gt;Often deadly with Lava Pit, since the player cannot levitate to escape.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spiked Drinks</title>
+      <link>https://runfast.stream/twitch/twitch-integration/spiked_drink/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/spiked_drink/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Adds random liquids to all of the player&amp;rsquo;s flasks.&lt;/p&gt;
+&lt;p&gt;Liquids such as polymorphine can be especially dangerous when the player doesn&amp;rsquo;t notice (or forgets) that their flasks were spiked.&lt;/p&gt;
+&lt;p&gt;Some liquids will also react inside the flask, ruining certain potions. If the player is relying on an acid flask as a method of killing the final boss, certain materials will turn the acid into flammable gas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stronk</title>
+      <link>https://runfast.stream/twitch/twitch-integration/stronk/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/stronk/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Applies a &lt;a href=&#34;https://noita.wiki.gg/wiki/Glass_Cannon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glass Cannon&lt;/a&gt;-like effect for a while (without reducing HP). Makes explosive spells very dangerous.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sugar Rush</title>
+      <link>https://runfast.stream/twitch/twitch-integration/sugarrush/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/sugarrush/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For the rest of the run, enemies will be more aggessive and will be able to see through walls.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Summon Spirits</title>
+      <link>https://runfast.stream/twitch/twitch-integration/summon_spirits/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/summon_spirits/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Summons a &lt;a href=&#34;https://noita.wiki.gg/wiki/Liekki%C3%B6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fire Spirit&lt;/a&gt; and an &lt;a href=&#34;https://noita.wiki.gg/wiki/J%C3%A4%C3%A4ti%C3%B6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ice Spirit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The fire spirit creates explosive gunpowder in the general area when damaged.&lt;/p&gt;
+&lt;p&gt;The ice spirit is capable of &lt;a href=&#34;https://noita.wiki.gg/wiki/Damage_Types#Melee_damage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;freeze melee&lt;/a&gt; attacks.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Swapper Curse</title>
+      <link>https://runfast.stream/twitch/twitch-integration/swapper_curse/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/swapper_curse/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Makes the player swap places with enemies near the cursor.&lt;/p&gt;
+&lt;p&gt;Can swap the player into dangerous situations, e.g. if multiple enemies are in a group.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Swimming Pool</title>
+      <link>https://runfast.stream/twitch/twitch-integration/swimming_pool/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/swimming_pool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a &lt;a href=&#34;https://noita.wiki.gg/wiki/Sea_of&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sea of Water&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Can be dangerous with Poisoned Water, or sources of electricity (e.g. Thunderstones).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Teleport Beacon</title>
+      <link>https://runfast.stream/twitch/twitch-integration/teleport_beacon/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/teleport_beacon/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a &amp;ldquo;beacon&amp;rdquo; at the player&amp;rsquo;s current position. If the player attempts to teleport, they are teleported back to the beacon instead.&lt;/p&gt;
+&lt;p&gt;What is detected as &amp;ldquo;teleporting&amp;rdquo; is very broad, making this option quite disruptive. Any sudden movement over a certain amount is detected as a teleport, regardless of cause.&lt;/p&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;p&gt;Spells&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleport_Bolt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teleport Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleport_Bolt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Small Teleport Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Return&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Return&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Swapper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Circle_of_Displacement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circle of Displacement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perks&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleportitis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teleportitis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleportitis_Dodge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teleportitis Dodge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Portals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Vaihdosmestari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swapper mage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Teleport Rideshare</title>
+      <link>https://runfast.stream/twitch/twitch-integration/teleport_rideshare/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/teleport_rideshare/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Teleports nearby enemies along with the player when they teleport. As with Teleport Beacon, suddenly moving a certain distance counts as &amp;ldquo;teleporting&amp;rdquo; regardless of cause.&lt;/p&gt;
+&lt;p&gt;Dangerous with other effects that teleport the player, and especially with the Teleportitis perk: after being damaged by an enemy, the player will teleport away, bringing more enemies with them, which can damage the player further, and so on.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The Alchemic Circle</title>
+      <link>https://runfast.stream/twitch/twitch-integration/random_circle/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/random_circle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a &lt;a href=&#34;https://noita.wiki.gg/wiki/Circle_of_%28Material%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circle of&lt;/a&gt; random liquids near the player.&lt;/p&gt;
+&lt;p&gt;Possible liquids include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Void_Liquid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Void Liquid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Oil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Fire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Blood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Water&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Acid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Whiskey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiskey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Flummoxium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flummoxium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Acceleratium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acceleratium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Worm_Pheromone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Worm Pheromone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Ambrosia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ambrosia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Concentrated_Mana&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Concentrated Mana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Teleportatium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teleportatium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noita.wiki.gg/wiki/Healthium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Healthium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The Swarm</title>
+      <link>https://runfast.stream/twitch/twitch-integration/the_swarm/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/the_swarm/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns some &lt;a href=&#34;https://noita.wiki.gg/wiki/Tulik%C3%A4rp%C3%A4nen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fireflies&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As with other options that spawn enemies, this can be a dangerous combo with options that modify enemies (e.g. Derandomized Enemies, Derandomized Enemy Attacks, Weebpocalypse, Steve Gang).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>THUNDERSTONES!?!</title>
+      <link>https://runfast.stream/twitch/twitch-integration/thunderstone_madness/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/thunderstone_madness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns multiple &lt;a href=&#34;https://noita.wiki.gg/wiki/Ukkoskivi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;electric rocks&lt;/a&gt; near the player. Dangerous near liquids. Can kill the player if they are submerged in liquid at the time.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Transmutation</title>
+      <link>https://runfast.stream/twitch/twitch-integration/transmutation/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/transmutation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Periodically turns a circle of material near the player into acid. Quite dangerous, especially in cramped areas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tripping Balls</title>
+      <link>https://runfast.stream/twitch/twitch-integration/shift/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/shift/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Triggers a &lt;a href=&#34;https://noita.wiki.gg/wiki/Fungal_Reality_Shift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fungal Reality Shift&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If the player is holding a flask at the moment of the shift, there is a 75% chance the material in the flask will either be turned into something else, or something else will be turned into the material.&lt;/p&gt;
+&lt;p&gt;A short visual warning is shown before the shift takes place. The same visual warning is used for Possess Wand, as a way of countering reflexes (switching to a wand when Possess Wand is about to take effect will cause the wand to be possessed).&lt;/p&gt;
+&lt;p&gt;Take note of what gets shifted - if acid or lava gets shifted away, it will neutralise ACID?? and Lava Pit.&lt;/p&gt;
+&lt;p&gt;Shifts have a 5 minute cooldown, so voting for it twice won&amp;rsquo;t do anything unless it has been over 5 minutes.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ukko in a box</title>
+      <link>https://runfast.stream/twitch/twitch-integration/ukko_in_a_box/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/ukko_in_a_box/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Causes the next opened chest to contain an Ukko in addition to its original contents.&lt;/p&gt;
+&lt;p&gt;If unprepared, the Ukko may damage or kill the player. Electricity from the attack can stun the player.&lt;/p&gt;
+&lt;p&gt;If the player opens a chest underwater, they may be immediately killed by electricity flowing through the water.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ultimate Killer</title>
+      <link>https://runfast.stream/twitch/twitch-integration/ultimate_killer/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/ultimate_killer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a tiny &lt;a href=&#34;https://noita.wiki.gg/wiki/Kauhuhirvi%C3%B6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horror Monster&lt;/a&gt; that is friendly to the player.&lt;/p&gt;
+&lt;p&gt;When killed, it generates a large explosion and an earthquake (and slime).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wand Mirage</title>
+      <link>https://runfast.stream/twitch/twitch-integration/wand_mirage/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:57 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/wand_mirage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Causes a wand that the player gets near to disappear. Each wand that the player has not picked up has a random chance to disappear, until one has disappeared.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>A Couple Worms</title>
+      <link>https://runfast.stream/twitch/twitch-integration/couple_worms/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/couple_worms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a couple regular-sized &lt;a href=&#34;https://noita.wiki.gg/wiki/Mato&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;worms&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Add Orb</title>
+      <link>https://runfast.stream/twitch/twitch-integration/mountain_orb/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/mountain_orb/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Causes the player to pick up an &lt;a href=&#34;https://noita.wiki.gg/wiki/Orb_of_True_Knowledge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orb of True Knowledge&lt;/a&gt;, which grants the player +25 extra max HP (or more with &lt;a href=&#34;https://noita.wiki.gg/wiki/Stronger_Hearts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stronger Hearts&lt;/a&gt;), and increases the difficulty of the final boss.&lt;/p&gt;
+&lt;p&gt;With each orb, the boss will gain HP based on &lt;a href=&#34;https://noita.wiki.gg/wiki/Kolmisilm%C3%A4#Scaling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scaling formula&lt;/a&gt;, and can gain extra defences/attacks/resistances/immunities depending on the total orb count.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bloody Mess</title>
+      <link>https://runfast.stream/twitch/twitch-integration/bloody_mess/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/bloody_mess/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Transforms all materials in a circle around the player into blood.&lt;/p&gt;
+&lt;p&gt;If a &lt;a href=&#34;https://noita.wiki.gg/wiki/Fungal_Reality_Shift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fungal Reality Shift&lt;/a&gt; (e.g. from Tripping Balls) has transformed blood into a harmful material, this may be dangerous to the player.&lt;/p&gt;
+&lt;p&gt;If a source of electricity is nearby, the player may be &lt;a href=&#34;https://noita.wiki.gg/wiki/Damage_Types#Electricity_Damage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;electrocuted&lt;/a&gt; if they do not have &lt;a href=&#34;https://noita.wiki.gg/wiki/Electricity_Immunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Electricity Immunity&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bomb Rush</title>
+      <link>https://runfast.stream/twitch/twitch-integration/bomb_rush/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/bomb_rush/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Causes random bombs to spawn around the player every few seconds, with a large countdown on screen for each wave of bombs.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Broken Trap</title>
+      <link>https://runfast.stream/twitch/twitch-integration/broken_trap/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/broken_trap/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns an &lt;a href=&#34;https://noita.wiki.gg/wiki/Traps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;acid trap&lt;/a&gt; box (as seen in the Mines). When damaged, it will create a &lt;a href=&#34;https://noita.wiki.gg/wiki/Circle_of_%28Material%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circle of Acid&lt;/a&gt;, which is dangerous to the player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Buoyancy</title>
+      <link>https://runfast.stream/twitch/twitch-integration/buoyancy/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/buoyancy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a &lt;a href=&#34;https://noita.wiki.gg/wiki/Circle_of_Buoyancy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circle of Buoyancy&lt;/a&gt; on the player, making it difficult to move.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ceasefire </title>
+      <link>https://runfast.stream/twitch/twitch-integration/ceasefire/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/ceasefire/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Cheese</title>
+      <link>https://runfast.stream/twitch/twitch-integration/cheesy/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/cheesy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Turns everything in a large radius around the player into cheese.&lt;/p&gt;
+&lt;p&gt;Explosives will be detonated, and portals will be deactivated if near enough (because the teleportatium powering them gets turned to cheese).&lt;/p&gt;
+&lt;p&gt;If near a holy mountain, the brickwork turning to cheese will anger the gods, causing &lt;a href=&#34;https://noita.wiki.gg/wiki/Stevari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve&lt;/a&gt; to spawn in future holy mountains.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Chests</title>
+      <link>https://runfast.stream/twitch/twitch-integration/chests/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/chests/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns 5 &lt;a href=&#34;https://noita.wiki.gg/wiki/Matkija&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chest mimics&lt;/a&gt; and 1 &lt;a href=&#34;https://noita.wiki.gg/wiki/Treasure_Chest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chest&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>CHONKY</title>
+      <link>https://runfast.stream/twitch/twitch-integration/chonky/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/chonky/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Each time the player lands on the ground, the ground under them is partially destroyed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cluttered shop</title>
+      <link>https://runfast.stream/twitch/twitch-integration/cluttered_shop/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/cluttered_shop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Creates a pile of rubbish in the next Holy Mountain shop, making it more difficult to buy spells/wands.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cold Weather</title>
+      <link>https://runfast.stream/twitch/twitch-integration/cold_weather/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/cold_weather/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spawns a large amount of &lt;a href=&#34;https://noita.wiki.gg/wiki/Freezing_Vapour&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freezing Vapour&lt;/a&gt; above the player, which causes damage on contact.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Curse of the Temple</title>
+      <link>https://runfast.stream/twitch/twitch-integration/green_crystal_trap/</link>
+      <pubDate>Mon, 01 Jul 2024 02:12:56 +1200</pubDate>
+      
+      <guid>https://runfast.stream/twitch/twitch-integration/green_crystal_trap/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Turns random circles of solid material near the player into Cursed Rock, and turns liquids into Poison.&lt;/p&gt;
+&lt;p&gt;Can cause a lot of damage, and prevents digging using basic digging spells. Spells like Black Hole or Luminous Drill are required to dig through Cursed Rock if there are no other ways out.&lt;/p&gt;
+&lt;p&gt;Can be very effective if the player is already trapped (e.g. from an earthquake).&lt;/p&gt;
 
       </description>
     </item>
