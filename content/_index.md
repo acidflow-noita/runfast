@@ -8,7 +8,7 @@ layout: runfast-home
 {{< runfast-headline >}} Everything you need for [playing]({{< relref "/new" >}} "playing"), [watching]({{< relref "/twitch/noita-pastas/" >}} "watching") and [streaming]({{< relref "/twitch" >}} "streaming") {{< icon "noita-logo-icon" >}} {{< /runfast-headline >}}
 </div>
 
-{{< hextra/feature-grid >}}
+{{< hextra/feature-grid cols="3">}}
 {{< card link="https://map.runfast.stream" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="Blazing-*fast* superzoom map for Noita" >}}
 {{< card link="/new"  image="images/newcard.webp" icon="link" title="New to Noita?" subtitle="Speedrun your understanding of the game in **5&nbsp;minutes** to get the first win" method="Resize" options="600x q80 webp" >}}
 {{< card link="/twitch/" title="Want to stream Noita?" image="images/twitchcard.webp" icon="link" subtitle="These tools will make streaming Noita more enjoyable for both you and your viewers" >}}

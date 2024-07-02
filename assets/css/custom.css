@@ -19,3 +19,7 @@
   --primary-hue: 9.8deg;
   --primary-saturation: 90%;
 }
+
+.rounded-card {
+  border-radius: 1.5rem;
+}
