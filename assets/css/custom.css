@@ -1,6 +1,8 @@
 :root {
   --primary-hue: 9.8deg;
   --primary-saturation: 90%;
+  --navbar-height: 4rem;
+  --menu-height: 3.75rem;
 }
 
 :is(html[class~="dark"] .dark\:to-gray-400) {
@@ -11,4 +13,9 @@
   --tw-gradient-from: #F16B46 var(--tw-gradient-from-position);
   --tw-gradient-to:  rgba(238, 43, 44, 1); var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+} 
+
+.dark {
+  --primary-hue: 9.8deg;
+  --primary-saturation: 90%;
 }
