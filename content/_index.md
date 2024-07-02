@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 layout: runfast-home
 ---
-<div class="hx-mt-6 hx-mb-6">
+<div class=" hx-mb-6">
 {{< runfast-headline >}} Everything you need for [playing]({{< relref "/new" >}} "playing"), [watching]({{< relref "/twitch/noita-pastas/" >}} "watching") and [streaming]({{< relref "/twitch" >}} "streaming") {{< icon "noita-logo-icon" >}} {{< /runfast-headline >}}
 </div>
 
