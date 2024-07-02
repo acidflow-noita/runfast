@@ -12,8 +12,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  highlight:
-    noClasses: false
+  # highlight:
+    # noClasses: false
 
 menu:
   main:
@@ -90,3 +90,9 @@ params:
     flexsearch:
       index: content
       tokenize: full
+  
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: always

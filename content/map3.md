@@ -3,6 +3,8 @@ date: 2024-04-29T05:32:29+06:00
 layout: map3
 draft: true
 showFooter: false
+sidebar:
+  exclude: true
 params:
   page:
     width: full

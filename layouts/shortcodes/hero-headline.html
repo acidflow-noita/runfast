@@ -1,9 +1,0 @@
-{{- $style := .Get "style" -}}
-
-
-<p
-  class="not-prose hx-text-xl hx-text-primary-600 dark:hx-text-orange-300 sm:hx-text-xl"
-  {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
->
-  {{ .Inner | markdownify }}
-</p>
