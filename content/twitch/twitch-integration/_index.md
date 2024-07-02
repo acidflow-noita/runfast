@@ -7,7 +7,7 @@ draft: false
 
 Show off your skill by defeating your chat in a series of never-ending challenges!
 {{< cards >}}
-{{< card link="/twitch/twitch-integration/lavapit" title="Lava Pitf lava in glass container under player. It removing terrain and detonates explosives to make place for it" image="/images/twitch-integation/lavapit.gif" icon="" >}}
+{{< card link="/twitch/twitch-integration/lava-pit" title="Lava Pit" subtitle="Creates a wide pool of lava in a glass container under the player" image="/images/twitch-integation/lavapit.gif" icon="" >}}
 {{< card link="/twitch/twitch-integration/acid/" title="ACID??" image="" icon="" >}}
 {{< card link="/twitch/twitch-integration/a-couple-worms/" title="A Couple Worms" image="" icon="" >}}
 {{< card link="/twitch/twitch-integration/add-orb/" title="Add Orb" image="" icon="" >}}
