@@ -1,0 +1,8 @@
+{{- $src := .Get "src" -}}
+<video
+  class="hx-mx-auto hx-mt-4 hx-mb-4 hx-rounded-md"
+  autoplay
+  loop
+  muted
+  src="{{ $src | safeURL }}"
+></video>
