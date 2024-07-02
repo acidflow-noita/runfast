@@ -4,12 +4,13 @@
 {{- $icon := .icon -}}
 {{- $subtitle := .subtitle -}}
 {{- $image := .image -}}
+{{- $video := .video -}}
 {{- $width := .width -}}
 {{- $height := .height -}}
 {{- $imageStyle := .imageStyle -}}
 
 {{ $linkClass := "hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900" }}
-{{- with $image -}}
+{{- with or $image $video -}}
   {{ $linkClass = "hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700" }}
 {{- end -}}
 
@@ -35,6 +36,17 @@
       {{ with $height }}height="{{ . }}"{{ end }}
       {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
     />
+  {{- end -}}
+
+  {{- with $video -}}
+    <video
+      class="hextra-card-image"
+      autoplay
+      loop
+      muted
+      src="{{ $video | safeURL }}"
+      {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
+    ></video>
   {{- end -}}
 
   {{- $padding := "hx-p-4" -}}
