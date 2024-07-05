@@ -96,3 +96,7 @@ params:
       enable: true
       # hover | always
       display: always
+
+services:
+  googleAnalytics:
+    ID: G-E60YMP3EY2
