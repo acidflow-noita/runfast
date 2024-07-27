@@ -6,7 +6,7 @@ layout: runfast-home
 ---
 
 <div class=" hx-mb-6">
-{{< runfast-headline >}} Everything you need for [playing]({{< relref "/new" >}} "playing"), [watching]({{< relref "/twitch/noita-pastas/" >}} "watching") and [streaming]({{< relref "/twitch" >}} "streaming") {{< icon "noita-logo-icon" >}} {{< /runfast-headline >}}
+{{< runfast-headline >}} Everything you need to [play]({{< relref "/new" >}} "play"), [watch]({{< relref "/twitch/noita-pastas/" >}} "watch") and [stream]({{< relref "/twitch" >}} "stream") {{< icon "noita-logo-icon" >}} {{< /runfast-headline >}}
 </div>
 
 {{< hextra/feature-grid cols="3">}}
