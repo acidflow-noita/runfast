@@ -1,5 +1,5 @@
 ---
-title: Noita Together -- Multiverse Multiplayer Mod for Noita
+title: Noita Together — Multiverse Multiplayer Mod for Noita
 draft: false
 sidebar:
   exclude: true
