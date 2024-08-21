@@ -5,8 +5,8 @@
 {{- $subtitle := .Get "subtitle" -}}
 {{- $image := .Get "image" -}}
 {{- $video := .Get "video" -}}
-{{- $width := 0 -}}
-{{- $height := 0 -}}
+{{- $width := .Get "width" | default 0 | int -}}
+{{- $height := .Get "height" | default 0 | int -}}
 {{- $imageStyle := .Get "imageStyle" -}}
 
 
@@ -38,6 +38,11 @@
       {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+
+{{/* Fix dimensions during video load in Chrome */}}
+{{- if and $video $width $height -}}
+  {{- $imageStyle = printf "aspect-ratio: %d / %d; %s" $width $height $imageStyle | strings.TrimSuffix " " -}}
 {{- end -}}
 
 {{- partial "shortcodes/card" (dict

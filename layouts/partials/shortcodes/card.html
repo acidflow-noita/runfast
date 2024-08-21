@@ -45,6 +45,8 @@
       loop
       muted
       src="{{ $video | safeURL }}"
+      {{ with $width }}width="{{ . }}"{{ end }}
+      {{ with $height }}height="{{ . }}"{{ end }}
       {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
     ></video>
   {{- end -}}
