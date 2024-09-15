@@ -33,9 +33,14 @@ menu:
       weight: 5
       params:
         type: search
+    - name: Join Discord
+      url: "https://discord.gg/R2PHyHMYgx"
+      weight: 6
+      params:
+        icon: discord-icon
     - name: Contribute on GitHub
       url: "https://github.com/orgs/acidflow-noita/repositories"
-      weight: 6
+      weight: 7
       params:
         icon: github
 
@@ -56,9 +61,12 @@ sidebar:
   - name: WUOTE's copypastas
     pageRef: /pastas
     weight: 4
+  - name: Discord ↗
+    url: "https://discord.gg/R2PHyHMYgx"
+    weight: 5
   - name: GitHub ↗
     url: "https://github.com/orgs/acidflow-noita/repositories"
-    weight: 5
+    weight: 6
 
 params:
   navbar:
