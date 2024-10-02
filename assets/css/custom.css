@@ -6,14 +6,15 @@
 }
 
 :is(html[class~="dark"] .dark\:to-gray-400) {
-  --tw-gradient-to: #EE2B2C var(--tw-gradient-to-position);
+  --tw-gradient-to: #ee2b2c var(--tw-gradient-to-position);
+  --tw-text-decoration: underline;
 }
 
 :is(html[class~="dark"] .dark\:from-gray-100) {
-  --tw-gradient-from: #F16B46 var(--tw-gradient-from-position);
-  --tw-gradient-to:  rgba(238, 43, 44, 1); var(--tw-gradient-to-position);
+  --tw-gradient-from: #f16b46 var(--tw-gradient-from-position);
+  --tw-gradient-to: rgba(238, 43, 44, 1) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-} 
+}
 
 .dark {
   --primary-hue: 9.8deg;
@@ -26,4 +27,53 @@
 
 .hextra-card-image {
   width: 100%;
+}
+
+.runfast-headline {
+  background: linear-gradient(
+    to right,
+    var(--tw-gradient-from),
+    var(--tw-gradient-to)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent; /* Apply the gradient across the headline text */
+  position: relative;
+  display: inline; /* Ensure the headline behaves correctly for gradient */
+}
+
+.runfast-headline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0; /* Align the underline just beneath the text */
+  width: 100%;
+  height: 5px; /* Increase the thickness of the underline */
+  background: linear-gradient(
+    to right,
+    var(--tw-gradient-from),
+    var(--tw-gradient-to)
+  ); /* The same gradient for the underline */
+}
+
+.headline-url a {
+  color: inherit; /* Make sure the link color inherits the gradient text color */
+  text-decoration: none; /* Remove default underline */
+  position: relative;
+}
+
+.headline-url a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0; /* Align the underline correctly under the links */
+  width: 100%;
+  height: 3px; /* Thicker underline to match headline */
+  background: linear-gradient(
+    to right,
+    var(--tw-gradient-from),
+    var(--tw-gradient-to)
+  ); /* Make the underline part of the continuous gradient */
+  background-size: 100% 3px;
+  background-repeat: no-repeat;
 }
