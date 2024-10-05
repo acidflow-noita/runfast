@@ -1,8 +1,5 @@
 ---
 title: 'Lava pit'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 ![Lava Pit demonstration](/images/twitch-integation/lavapit.gif)

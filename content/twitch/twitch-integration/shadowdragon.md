@@ -1,8 +1,5 @@
 ---
 title: 'Shadowdragon'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Spawns a ["Dragon"](https://noita.wiki.gg/wiki/Suomuhauki) with reduced bite damage.

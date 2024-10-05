@@ -1,8 +1,5 @@
 ---
 title: 'Add Orb'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Causes the player to pick up the [Orb of True Knowledge](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) from above the mountain, which grants the player +25 extra max HP (or more with [Stronger Hearts](https://noita.wiki.gg/wiki/Stronger_Hearts)), and increases the difficulty of the final boss.

@@ -1,8 +1,5 @@
 ---
 title: 'Weebpocalypse'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Transforms all nearby enemies into [tentaclers](https://noita.wiki.gg/wiki/Turso), or the [small version](https://noita.wiki.gg/wiki/Pikkuturso) of them.

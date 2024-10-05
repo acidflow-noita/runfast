@@ -1,8 +1,5 @@
 ---
 title: 'Spicy Blood'
-date: 2024-07-01T15:37:25+12:00
-type: docs
-draft: false
 ---
 
 Causes enemies to bleed dangerous liquids (and be immune to what they bleed) for 45 seconds.

@@ -1,8 +1,5 @@
 ---
 title: 'Fiery Circle'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Spawns [Circle of Fire](https://noita.wiki.gg/wiki/Circle_of_%28Material%29) a few times.

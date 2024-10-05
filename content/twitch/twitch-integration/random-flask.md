@@ -1,8 +1,5 @@
 ---
 title: 'Random Flask'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Spawns a flask containing a random liquid at the player's current position.

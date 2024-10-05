@@ -1,8 +1,5 @@
 ---
 title: 'Bitter perks'
-date: 2024-07-01T02:12:55+12:00
-type: docs
-draft: false
 ---
 
 Surrounds perks in the next Holy Mountain with acid, enclosed in glass.

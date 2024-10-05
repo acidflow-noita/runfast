@@ -1,8 +1,5 @@
 ---
 title: 'Teleport Beacon'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Spawns a "beacon" at the player's current position. If the player attempts to teleport, they are teleported back to the beacon instead.

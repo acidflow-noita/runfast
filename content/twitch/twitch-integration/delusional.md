@@ -1,8 +1,5 @@
 ---
 title: 'Delusional'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Periodically spawns fake enemies. The enemies do not deal damage and cannot be hit or stained.

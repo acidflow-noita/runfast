@@ -1,8 +1,5 @@
 ---
 title: 'Possess Wand'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Attempts to possess the currently held wand, which will then fire at the player by itself. It works the same way as a [Taikasauva](https://noita.wiki.gg/wiki/Taikasauva).

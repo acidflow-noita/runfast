@@ -1,8 +1,5 @@
 ---
 title: 'ACID??'
-date: 2024-07-01T02:12:55+12:00
-type: docs
-draft: false
 ---
 
 Spawns a big [circle of](https://noita.wiki.gg/wiki/Circle_of_%28Material%29) deadly acid.

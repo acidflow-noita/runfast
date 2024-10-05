@@ -1,8 +1,5 @@
 ---
 title: 'Boost Wands'
-date: 2024-07-01T15:37:25+12:00
-type: docs
-draft: false
 ---
 
 Improves the stats of a random number of the player's wands, starting from the first wand.

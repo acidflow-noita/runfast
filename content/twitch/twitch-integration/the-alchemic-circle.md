@@ -1,8 +1,5 @@
 ---
 title: 'The Alchemic Circle'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Spawns a [circle of](https://noita.wiki.gg/wiki/Circle_of_%28Material%29) random liquids near the player.

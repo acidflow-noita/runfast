@@ -1,8 +1,5 @@
 ---
 title: 'The Rarest Mimic'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Replaces either the heart or the spell refresher in the next Holy Mountain with a mimic version.

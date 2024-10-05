@@ -1,8 +1,5 @@
 ---
 title: 'Tripping Balls'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Triggers a [Fungal Reality Shift](https://noita.wiki.gg/wiki/Fungal_Reality_Shift).

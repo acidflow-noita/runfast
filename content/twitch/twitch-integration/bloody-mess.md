@@ -1,8 +1,5 @@
 ---
 title: 'Bloody Mess'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Transforms all materials in a circle around the player into blood.

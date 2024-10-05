@@ -1,8 +1,5 @@
 ---
 title: 'Homing Blackhole'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Spawns a large damaging black hole that follows the player. It pulls in objects and creatures (including the player), and can fling loose debris, causing physics damage.

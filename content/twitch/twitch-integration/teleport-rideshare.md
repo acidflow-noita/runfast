@@ -1,8 +1,5 @@
 ---
 title: 'Teleport Rideshare'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Teleports nearby enemies along with the player when they teleport. As with Teleport Beacon, suddenly moving a certain distance counts as "teleporting" regardless of cause.

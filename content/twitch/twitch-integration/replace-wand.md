@@ -1,8 +1,5 @@
 ---
 title: 'Replace wand'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Replaces one of the player's wands (not necessarily the one they are holding) with a randomly-generated one.

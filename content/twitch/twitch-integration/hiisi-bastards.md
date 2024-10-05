@@ -1,8 +1,5 @@
 ---
 title: 'Hiisi Bastards'
-date: 2024-07-01T02:12:56+12:00
-type: docs
-draft: false
 ---
 
 Spawns a bunch of [Hiisi](https://noita.wiki.gg/wiki/Hiisi).
