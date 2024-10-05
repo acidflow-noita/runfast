@@ -10,3 +10,5 @@ Possible liquids:
 - [Chaotic Polymorphine](https://noita.wiki.gg/wiki/Chaotic_Polymorphine) (2% chance)
 
 Selecting this option again while it is still active changes the liquid and adds to the existing timer.
+
+{{< ti-video >}}

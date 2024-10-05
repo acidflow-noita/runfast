@@ -22,3 +22,5 @@ Perks
 Other
 - Portals
 - [Swapper mage](https://noita.wiki.gg/wiki/Vaihdosmestari)
+
+{{< ti-video >}}

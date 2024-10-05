@@ -19,3 +19,5 @@ Possible liquids include:
 - [Concentrated Mana](https://noita.wiki.gg/wiki/Concentrated_Mana)
 - [Teleportatium](https://noita.wiki.gg/wiki/Teleportatium)
 - [Healthium](https://noita.wiki.gg/wiki/Healthium)
+
+{{< ti-video >}}

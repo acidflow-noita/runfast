@@ -17,3 +17,5 @@ Perks:
 Other:
 - [Swapper mage](https://noita.wiki.gg/wiki/Vaihdosmestari)
 - [RGB portals](https://noita.wiki.gg/wiki/Mod:Apotheosis/Portals) from the [Apotheosis](https://noita.wiki.gg/wiki/Mod:Apotheosis) mod
+
+{{< ti-video >}}

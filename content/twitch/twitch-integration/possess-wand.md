@@ -9,3 +9,5 @@ Particularly dangerous with rapid-fire or high-damage wands. Does nothing if the
 A visual warning is shown shortly before it activates, which allows the player to quickly switch to an item to avoid it.
 
 The same visual warning is used for Tripping Balls, as a way of countering reflexes (switching to a flask during a fungal shift has a good chance of causing the contents of the flask to be transformed, which is usually undesirable for the player).
+
+{{< ti-video >}}

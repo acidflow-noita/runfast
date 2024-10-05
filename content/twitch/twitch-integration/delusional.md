@@ -16,3 +16,5 @@ Possible enemies:
 - [Hiisi Sniper](https://noita.wiki.gg/wiki/Snipuhiisi)
 - [Master of Polymorphing](https://noita.wiki.gg/wiki/Muodonmuutosmestari)
 - [Hound](https://noita.wiki.gg/wiki/Hurtta)
+
+{{< ti-video >}}

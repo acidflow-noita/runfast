@@ -12,3 +12,5 @@ Possible liquids:
 - [Pheromone](https://noita.wiki.gg/wiki/Pheromone)
 - [Acid](https://noita.wiki.gg/wiki/Acid)
 - [Lava](https://noita.wiki.gg/wiki/Lava)
+
+{{< ti-video >}}

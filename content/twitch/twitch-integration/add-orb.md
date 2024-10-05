@@ -7,3 +7,5 @@ Causes the player to pick up the [Orb of True Knowledge](https://noita.wiki.gg/w
 With each orb, the boss will gain HP based on a [scaling formula](https://noita.wiki.gg/wiki/Kolmisilm%C3%A4#Scaling), and can gain extra defences/attacks/resistances/immunities depending on the total orb count.
 
 Since each orb can only be collected once, and Add Orb uses the same orb each time, Add Orb can only be used once per run.
+
+{{< ti-video >}}

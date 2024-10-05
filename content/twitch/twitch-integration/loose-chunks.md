@@ -7,3 +7,5 @@ Periodically causes a small chunk of material near the player to crumble, in a s
 If a chunk of loose material hits the player, it can do a lot of damage.
 
 Can be more dangerous with things that pull in the debris, like Helpful Blackhole.
+
+{{< ti-video >}}

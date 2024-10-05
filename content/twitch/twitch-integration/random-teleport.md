@@ -9,3 +9,5 @@ Can be dangerous if the player is teleported into enemies or dangerous liquids (
 If Teleport Beacon is active, the player will teleport to the beacon instead.
 
 If Teleport Rideshare is active, nearby enemies will be teleported along with the player.
+
+{{< ti-video >}}

@@ -11,3 +11,5 @@ Improves the stats of a random number of the player's wands, starting from the f
 - 50% chance to reduce cast delay by 0.17s
 - 50% chance to reduce spread by 5 degrees
 - 50% chance to make the wand non-shuffle
+
+{{< ti-video >}}

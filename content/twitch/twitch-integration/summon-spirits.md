@@ -7,3 +7,5 @@ Summons a [Fire Spirit](https://noita.wiki.gg/wiki/Liekki%C3%B6) and an [Ice Spi
 The fire spirit creates explosive gunpowder in the general area when damaged.
 
 The ice spirit is capable of [freeze melee](https://noita.wiki.gg/wiki/Damage_Types#Melee_damage) attacks.
+
+{{< ti-video >}}
