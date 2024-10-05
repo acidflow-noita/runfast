@@ -18,7 +18,7 @@ markup:
 menu:
   main:
     # - name: Noita Map ↗
-    #   url: "https://map.runfast.stream"
+    #   url: "https://noitamap.com"
     #   weight: 1
     # - name: My Noita Mods on Steam ↗
     #   url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
@@ -50,7 +50,7 @@ sidebar:
       type: separator
     weight: 1
   - name: Noita Map ↗
-    url: "https://map.runfast.stream/"
+    url: "https://noitamap.com"
     weight: 1
   - name: My Noita Mods on Steam ↗
     url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"

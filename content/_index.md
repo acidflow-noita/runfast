@@ -10,7 +10,7 @@ layout: runfast-home
 </div>
 
 {{< hextra/feature-grid cols="3">}}
-{{< card link="https://map.runfast.stream" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="*Ultrafast* superzoom map for Noita" >}}
+{{< card link="https://noitamap.com" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="*Ultrafast* superzoom map for Noita" >}}
 {{< card link="/new" image="images/newcard.webp" icon="link" title="New to Noita?" subtitle="Speedrun your understanding of the game in **5&nbsp;minutes** to get the first win" method="Resize" options="600x q80 webp" >}}
 {{< card link="/twitch/" title="Want to stream Noita?" image="images/twitchcard.webp" icon="link" subtitle="These tools will make streaming Noita more enjoyable for both you and your viewers" >}}
 {{< card link="https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine" title="Noita Wayback Machine ↗" icon="time-rewind-icon" image="/images/NoitaWaybackMachineLogo.webp" subtitle="Time machine for Noita. Play any public build of the game." >}}
