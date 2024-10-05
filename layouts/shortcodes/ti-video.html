@@ -1,0 +1,23 @@
+{{- $video := .Get "src" -}}
+{{- with printf "/videos/twitch-integration/%s.mp4" .Page.File.BaseFileName -}}
+  {{- if and (not $video) (fileExists .) -}}
+    {{- $video = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $width := .Get "width" | default 720 | int -}}
+{{- $height := .Get "height" | default 720 | int -}}
+{{- $style := printf "aspect-ratio: %d / %d" $width $height -}}
+
+{{- if $video -}}
+<video
+  class="hx-mx-auto hx-mt-6 hx-mb-6 hx-rounded-md"
+  autoplay
+  loop
+  muted
+  src="{{ $video | safeURL }}"
+  width="{{ $width }}"
+  height="{{ $height }}"
+  style="{{ $style | safeCSS }}"
+></video>
+{{- end -}}

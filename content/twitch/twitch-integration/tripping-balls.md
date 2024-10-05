@@ -1,8 +1,5 @@
 ---
 title: 'Tripping Balls'
-date: 2024-07-01T02:12:57+12:00
-type: docs
-draft: false
 ---
 
 Triggers a [Fungal Reality Shift](https://noita.wiki.gg/wiki/Fungal_Reality_Shift).
@@ -14,3 +11,5 @@ A short visual warning is shown before the shift takes place. The same visual wa
 Take note of what gets shifted - if acid or lava gets shifted away, it will neutralise ACID?? and Lava Pit.
 
 Shifts have a 5 minute cooldown, so voting for it twice won't do anything unless it has been over 5 minutes.
+
+{{< ti-video >}}

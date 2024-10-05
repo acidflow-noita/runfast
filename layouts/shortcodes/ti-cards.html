@@ -1,0 +1,25 @@
+{{ range .Page.Pages }}
+
+{{- $video := "" -}}
+{{- with printf "/videos/twitch-integration/%s.mp4" .File.BaseFileName -}}
+  {{- if fileExists . -}}
+    {{- $video = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $width := 720 -}}
+{{- $height := 720 -}}
+{{- $imageStyle := printf "aspect-ratio: %d / %d" $width $height -}}
+
+{{ partial "shortcodes/card" (dict
+  "page"        .Page
+  "link"        .RelPermalink
+  "title"       .Title
+  "subtitle"    (plainify .Summary)
+  "video"       $video
+  "width"       $width
+  "height"      $width
+  "imageStyle"  $imageStyle
+  )
+}}
+
+{{ end }}
