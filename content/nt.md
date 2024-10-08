@@ -26,6 +26,9 @@ Download the latest builds from the repository:
 ### Download and Install NT
 
 Use the buttons above to download NT installer. Launch it from the downloads. The installer will also automatically put NT into your game files where it should be for both Steam and GOG versions of Noita.
+You will get Windows Defender warning saying that NT is an unrecognized app. The reason for that is that a root code-signing certificate, that Windows recognizes, costs about $1000 per year, and we cannot afford that. The NT client is open-source so anyone can check the code and verify that it isn't doing any nasty stuff.
+![Windows Defender warning](images/nt/windows-defender-warning.png)
+![Windows Defender allow NT](images/nt/windows-defender-allow.png)
 
 ### Open Noita and activate NT
 
