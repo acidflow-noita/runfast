@@ -85,6 +85,6 @@ You need to start a new run **twice**. Starting a run synchronizes you with othe
 
 ### You are Good to Go!
 
-GLHF!
+Run fast and throw hard!
 
 {{% /steps %}}
