@@ -29,6 +29,9 @@ menu:
     # - name: WUOTE's copypastas
     #   pageRef: /pastas
     #   weight: 4
+    - name: Noita Together
+      pageRef: /nt
+      weight: 4
     - name: Search
       weight: 5
       params:
@@ -39,7 +42,7 @@ menu:
       params:
         icon: discord-icon
     - name: Contribute on GitHub
-      url: "https://github.com/orgs/acidflow-noita/repositories"
+      url: "https://github.com/acidflow-noita/runfast"
       weight: 7
       params:
         icon: github
