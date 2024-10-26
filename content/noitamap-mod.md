@@ -5,7 +5,7 @@ type: docs
 draft: false
 ---
 
-## TLDR: Press `M` on your keyboard to open [NoitaMap](https://noitamap.com/) at your location in the game
+## TLDR: Press `M` on your keyboard to open a new browser window with [NoitaMap](https://noitamap.com/) at your location in the game
 
 <br>
 
