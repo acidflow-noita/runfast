@@ -29,6 +29,9 @@ menu:
     # - name: WUOTE's copypastas
     #   pageRef: /pastas
     #   weight: 4
+    - name: NoitaMap Mod
+      pageRef: /noitamap-mod
+      weight: 3
     - name: Noita Together
       pageRef: /nt
       weight: 4
