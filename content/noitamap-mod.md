@@ -9,7 +9,7 @@ draft: false
 
 <br>
 
-{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/1.0/noitamap.zip" >}}
+{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/2.0/noitamap.zip" >}}
 
 {{% steps %}}
 
