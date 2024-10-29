@@ -1,0 +1,61 @@
+<style>
+  .btn-custom {
+    width: 8rem;
+    height: 4rem;
+    background-color: #111;
+    color: #e5e5e5;
+    border: solid 2px #e5e5e5;
+    border-radius: 9999px;
+    position: relative;
+  }
+
+  .btn-custom:hover {
+    color: #fafafa;
+    border: solid 2px #fafafa;
+    background-color: #ec4719;
+    /* filter: blur(60px); */
+  }
+
+  .btn-custom:active {
+    color: white;
+    background-color: #ee2b2c;
+  }
+
+  .btn-custom::before {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    background-size: 400%;
+    border-radius: 9999px;
+    z-index: -1;
+    filter: blur(15px);
+    animation: glowing 10s linear infinite;
+  }
+
+  @keyframes glowing {
+    0% {
+      background-position: 0 0;
+    }
+    50% {
+      background-position: 400% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+  }
+
+  .custom-center-aligned {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+  }
+</style>
+
+<div class="custom-center-aligned">
+  <a href="/donate">
+    <button class="btn-custom">Donate</button>
+  </a>
+</div>
