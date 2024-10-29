@@ -1,7 +1,7 @@
 ---
 title: "Donate"
 date: 2024-10-28T23:52:53+06:00
-draft: true
+draft: false
 sidebar:
   exclude: true
 layout: runfast-home
