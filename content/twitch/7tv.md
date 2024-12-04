@@ -5,9 +5,16 @@ draft: false
 type: docs
 ---
 
+{{< callout type="error" >}}
+Currently this does NOT work, and it's 7tv's fault:
+> [Emote set origins are experimental and being removed in the newer rewrite of the API in favor of allowing multiple emote sets to be enabled at the same time, with some priority system. (like minecraft resource packs)](https://github.com/SevenTV/API/issues/253#issuecomment-1960019039)
+{{< /callout >}}
+
 ## Add every single Noita spell as a 7tv emote to your chat — in 7 clicks
 
 ![](/images/chatcard.webp)
+
+
 
 {{< callout type="info" >}}
 You are adding emotes to **your** channel (and removing them from your channel too, for that matter), you don't need to go to WUOTE's profile on 7tv.
