@@ -14,10 +14,10 @@ NT is an open source project hosted on {{< icon "github" >}} [GitHub](https://gi
 
 Download the latest builds from the repository:
 
-{{< hextra/hero-button text="Download for Windows" link="https://github.com/Noita-Together/noita-together/releases/download/v0.11.5/Noita-Together-Setup-0.11.5.exe" >}}
+{{< hextra/hero-button text="Download for Windows" link="https://github.com/Noita-Together/noita-together/releases/download/v0.11.6/Noita-Together-Setup-0.11.6.exe" >}}
 <br/>
 <br/>
-{{< hextra/hero-button text="Download for Linux (AppImage)" link="https://github.com/Noita-Together/noita-together/releases/download/v0.11.5/Noita-Together-Setup-0.11.5.AppImage" >}}
+{{< hextra/hero-button text="Download for Linux (AppImage)" link="https://github.com/Noita-Together/noita-together/releases/download/v0.11.6/Noita-Together-Setup-0.11.6.AppImage" >}}
 
 ## How to play
 
