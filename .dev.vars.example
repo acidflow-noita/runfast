@@ -1,0 +1,10 @@
+# for local dev copy this to `.dev.vars` and update the values
+
+SEVENTV_JWT=
+
+# dont forget to update the client_id in the twitch login link as well
+TWITCH_CLIENT_ID=
+TWITCH_CLIENT_SECRET=
+
+# can override the APP_HOST defined in wrangler.toml locally here
+APP_HOST = "http://localhost:8787"

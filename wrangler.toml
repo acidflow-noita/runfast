@@ -1,0 +1,26 @@
+name = "runfast-stream-emote-worker"
+
+main = "src/index.ts"
+compatibility_date = "2024-12-18"
+
+[vars]
+APP_HOST = "https://runfast-stream-emote-worker.wuote.workers.dev"
+SPELLS_EMOTE_SET_ID = "01H6M3BMPR000DB8T06388XCG1"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "noita-emotes-db"
+database_id = "8d22f92b-7dd8-4056-aece-251d037989bd"
+preview_database_id = "local"
+
+[[unsafe.bindings]] # unsafe because ratelimits are beta
+name = "CB_RATELIMIT"
+type = "ratelimit"
+namespace_id = "1001" # a unique id across the cf account
+
+# not a lot, to avoid exhausing our own 7tv ratelimits by
+# some super duper mega totally adult hackers (cuz nice things are bad to have, yes)
+simple = { limit = 20, period = 60 }
+
+[triggers]
+crons = ["*/2 * * * *"]

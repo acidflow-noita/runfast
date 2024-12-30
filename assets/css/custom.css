@@ -1,30 +1,55 @@
 :root {
-  --primary-hue: 9.8deg;
-  --primary-saturation: 90%;
-  --navbar-height: 4rem;
-  --menu-height: 3.75rem;
+    --primary-hue: 9.8deg;
+    --primary-saturation: 90%;
+    --navbar-height: 4rem;
+    --menu-height: 3.75rem;
 }
 
-:is(html[class~="dark"] .dark\:to-gray-400) {
-  --tw-gradient-to: #ee2b2c var(--tw-gradient-to-position);
-  --tw-text-decoration: underline;
+:is(html[class~='dark'] .dark\:to-gray-400) {
+    --tw-gradient-to: #ee2b2c var(--tw-gradient-to-position);
+    --tw-text-decoration: underline;
 }
 
-:is(html[class~="dark"] .dark\:from-gray-100) {
-  --tw-gradient-from: #f16b46 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgba(238, 43, 44, 1) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+:is(html[class~='dark'] .dark\:from-gray-100) {
+    --tw-gradient-from: #f16b46 var(--tw-gradient-from-position);
+    --tw-gradient-to: rgba(238, 43, 44, 1) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
 .dark {
-  --primary-hue: 9.8deg;
-  --primary-saturation: 90%;
+    --primary-hue: 9.8deg;
+    --primary-saturation: 90%;
 }
 
 .rounded-card {
-  border-radius: 1.5rem;
+    border-radius: 1.5rem;
 }
 
 .hextra-card-image {
-  width: 100%;
+    width: 100%;
+}
+
+.spells-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #047857;
+    padding: 1em 1rem;
+    margin: 1rem;
+    width: 10em;
+    cursor: pointer;
+    border: 0;
+    border-radius: 15px;
+    box-shadow: 0 0 15px#022c22;
+    font-size: x-large;
+    text-align: center;
+}
+#remove_emotes {
+    background-color: #ef4444;
+}
+.spells-button > svg {
+    height: 2rem;
+}
+.response {
+    margin: 0.5rem;
 }

@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2021",
+        "module": "es2022",
+        "lib": ["es2021"],
+        "moduleResolution": "Bundler",
+        "types": ["@cloudflare/workers-types"],
+        "plugins": [
+            {
+                "name": "gql.tada/ts-plugin",
+                "schema": "https://7tv.io/v3/gql",
+                "tadaOutputLocation": "./src/graphql-env.d.ts"
+            }
+        ]
+    }
+}
