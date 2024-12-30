@@ -43,6 +43,7 @@
     box-shadow: 0 0 15px#022c22;
     font-size: x-large;
     text-align: center;
+    white-space: nowrap;
 }
 #remove_emotes {
     background-color: #ef4444;

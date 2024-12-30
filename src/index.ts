@@ -381,7 +381,7 @@ async function finish(
     await new Promise((resolve) => setTimeout(resolve, 1000));
     await page.run(`window.opener.postMessage(${data});`);
     await page.log(
-        'If the popup did not close on its own, you can close it now'
+        'You can close this window now, the emotes will be updated shortly'
     );
 }
 
