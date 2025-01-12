@@ -21,4 +21,5 @@ type: docs
 {{< card link="/twitch/noita-pastas/words-of-encouragement" title="WORDS OF ENCOURAGEMENT" >}}
 {{< card link="/twitch/noita-pastas/you-are-great-at-noita" title="YOU ARE GREAT AT NOITA" >}}
 {{< card link="/twitch/noita-pastas/you-are-the-best-player" title="YOU ARE THE BEST PLAYER" >}}
+{{< card link="/twitch/noita-pastas/multitudes" title="MULTITUDES" >}}
 {{< /cards >}}
