@@ -9,6 +9,7 @@ sidebar:
 {{< cards >}}
 {{< card link="/pastas/addiction" title="💉 ADDICTION" >}}
 {{< card link="/pastas/adult-stuff" title="ADULT STUFF" >}}
+{{< card link="/pastas/anime" title="ANIME" >}}
 {{< card link="/pastas/art" title="🎨 ART" >}}
 {{< card link="/pastas/capslock-treatment" title="CAPSLOCK TREATMENT" >}}
 {{< card link="/pastas/cartel" title="🛒 Cartel" >}}
