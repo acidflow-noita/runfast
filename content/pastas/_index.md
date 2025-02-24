@@ -3,7 +3,7 @@ title: 🍝 WUOTE's copypastas
 draft: false
 type: docs
 sidebar:
-  exclude: true
+    exclude: true
 ---
 
 {{< cards >}}
@@ -11,6 +11,7 @@ sidebar:
 {{< card link="/pastas/adult-stuff" title="ADULT STUFF" >}}
 {{< card link="/pastas/anime" title="ANIME" >}}
 {{< card link="/pastas/art" title="🎨 ART" >}}
+{{< card link="/pastas/bounce" title="BOUNCE" >}}
 {{< card link="/pastas/capslock-treatment" title="CAPSLOCK TREATMENT" >}}
 {{< card link="/pastas/cartel" title="🛒 Cartel" >}}
 {{< card link="/pastas/cowofdoom-on-wuote" title="COWOFDOOM ON WUOTE" >}}
