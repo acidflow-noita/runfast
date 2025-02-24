@@ -1,7 +1,7 @@
 ---
 draft: false
 sidebar:
-  exclude: true
+    exclude: true
 layout: runfast-home
 ---
 
@@ -11,6 +11,7 @@ layout: runfast-home
 <div class="hx-mb-10 custom-center-aligned">
 {{< donate-button >}}
 </div>
+
 {{< hextra/feature-grid cols="3">}}
 {{< card link="https://noitamap.com" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="*Ultrafast* superzoom map for Noita" >}}
 {{< card link="/new" image="images/newcard.webp" icon="link" title="New to Noita?" subtitle="Speedrun your understanding of the game in **5&nbsp;minutes** to get the first win" method="Resize" options="600x q80 webp" >}}
