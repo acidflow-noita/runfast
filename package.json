@@ -6,6 +6,7 @@
     },
     "dependencies": {
         "gql.tada": "^1.8.10",
-        "graphql-request": "^7.1.2"
+        "graphql-request": "^7.1.2",
+        "wrangler": "^3.109.3"
     }
 }

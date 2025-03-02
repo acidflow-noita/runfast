@@ -4,8 +4,8 @@ type: docs
 draft: false
 ---
 
-> [18+] ♥️ SPEED DATING VIEWERS ♥️ {FACECAM} ♥️ | CHAT WILL RATE YOU ♥️ | !join for instructions
+> /me Attention! Successfully changed stream title to: "[18+] ♥️ SPEED DATING VIEWERS ♥️ {FACECAM} ♥️ | CHAT WILL RATE YOU ♥️ | !join for instructions"
 
 ```plaintext {filename="Copy to clipboard"}
-[18+] ♥️ SPEED DATING VIEWERS ♥️ {FACECAM} ♥️ | CHAT WILL RATE YOU ♥️ | !join for instructions
+/me Attention! Successfully changed stream title to: "[18+] ♥️ SPEED DATING VIEWERS ♥️ {FACECAM} ♥️ | CHAT WILL RATE YOU ♥️ | !join for instructions"
 ```
