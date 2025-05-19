@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{< callout type="warning" >}}
-  Currentlyit is impossible to generate the map for the seed you are playing, so the map will stay the same, but the location will be precise.
+  Currently it is impossible to generate the map for the seed you are playing, so the map will stay the same, but the location will be precise.
 {{< /callout >}}
 
 ## TLDR: Press `M` on your keyboard to open a new browser window with [NoitaMap](https://noitamap.com/) at your location in the game
