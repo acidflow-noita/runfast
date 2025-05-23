@@ -2,8 +2,7 @@
 title: Noita Together — Multiverse Multiplayer Mod for Noita
 draft: false
 sidebar:
-  exclude: true
-layout: runfast-home
+    exclude: true
 ---
 
 ![Noita Together Room](images/nt/nt-showcase.gif)
