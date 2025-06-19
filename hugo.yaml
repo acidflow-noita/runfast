@@ -29,6 +29,9 @@ menu:
     # - name: WUOTE's copypastas
     #   pageRef: /pastas
     #   weight: 4
+    - name: Dunkbin Stats 2.0
+      url: "https://dunkbinstats.runfast.stream"
+      weight: 2
     - name: NoitaMap Mod
       pageRef: /noitamap-mod
       weight: 3
