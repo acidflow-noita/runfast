@@ -1,7 +1,7 @@
 ---
 title: 𝙕𝘼𝙄𝘽𝘼𝙏𝙎𝙐 𝘾𝙊𝙍𝙋's twitch chat commands
 type: docs
-draft: true
+draft: false
 sidebar:
   exclude: true
 ---
