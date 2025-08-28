@@ -43,5 +43,6 @@ sidebar:
 {{< card link="/pastas/typical-twitch-steramer" title="TYPICAL TWITCH STERAMER" >}}
 {{< card link="/pastas/unique" title="🦄 UNIQUE" >}}
 {{< card link="/pastas/workout" title="💪 WORKOUT" >}}
+{{< card link="/pastas/wplace" title="wplace" >}}
 {{< card link="/pastas/zoom" title="🚾 ZOOM" >}}
 {{< /cards >}}
