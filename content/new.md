@@ -153,7 +153,13 @@ Use `noita.wiki.gg` instead.
 
 Best of luck! Run fast and throw hard!
 
-## Extra step: ~~Switch to `Beta branch` before you start~~ -- At the moment `main` and `beta` branches of the game are aligned, feel free to skip this step
+## Extra step
+
+~~Switch to `Beta branch` before you start~~
+
+{{< callout type="info" emoji="👍" >}}
+At the moment `main` and `beta` branches of the game are aligned, feel free to skip this step
+{{< /callout >}}
 
 Noita has two publicly available build branches: `main` and `beta`. The most important difference is that `beta` branch is **more stable**, since the devs applied large address aware (LAA) patch to otherwise `32-bit` game, so on `beta` Noita is able to use more than `2 GB` of RAM. That increases the game's stability.
 

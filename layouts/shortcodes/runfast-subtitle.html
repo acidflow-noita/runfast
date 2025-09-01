@@ -1,0 +1,9 @@
+{{- $style := .Get "style" -}}
+
+
+<h1
+  class="subtitle-url hx:text-xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-xl hx:py-2"
+  {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
+>
+  {{ .Inner | markdownify }}
+</h1>

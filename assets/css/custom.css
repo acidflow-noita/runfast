@@ -50,3 +50,105 @@
 .response {
     margin: 0.5rem;
 }
+
+/* Dono button */
+.bg-glow {
+    position: relative;
+    z-index: 0;
+    padding: 0.5rem;
+}
+.bg-glow-inner {
+    position: absolute;
+    z-index: -1;
+    inset: -15px;
+
+    overflow: hidden;
+
+    filter: blur(25px);
+    mask-image: radial-gradient(black 20%, transparent 70%);
+
+    background: linear-gradient(
+        45deg,
+        #ff0000,
+        #ff7300,
+        #fffb00,
+        #48ff00,
+        #00ffd5,
+        #002bff,
+        #7a00ff,
+        #ff00c8,
+        #ff0000,
+        #ff7300,
+        #fffb00,
+        #48ff00,
+        #00ffd5
+    );
+    background-size: 400px 200px;
+    animation: glowing 10s linear infinite;
+}
+
+@keyframes glowing {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 400px 0;
+    }
+}
+
+.p-4 {
+    padding: 4em;
+}
+.inline-block {
+    display: inline-block;
+}
+.rounded-full {
+    border-radius: 9999px;
+}
+.border {
+    border-style: solid;
+}
+.border-2 {
+    border-width: 2px;
+}
+.border-white {
+    border-color: white;
+}
+.bg-main {
+    background-color: #111;
+}
+.bg-gray-300 {
+    background-color: gray;
+}
+.bg-orange-200 {
+    background-color: rgb(254 215 170);
+}
+.px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+.text-white {
+    color: white;
+}
+.overflow-hidden {
+    overflow: hidden;
+}
+
+#dono-button:hover {
+    background-color: #ee2b2c;
+}
+#dono-button:active {
+    background-color: #f16b46;
+}
+
+.custom-center-aligned {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+}
