@@ -17,41 +17,54 @@ markup:
 
 menu:
   main:
-    # - name: Noita Map ↗
-    #   url: "https://noitamap.com"
-    #   weight: 1
-    # - name: My Noita Mods on Steam ↗
-    #   url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-    #   weight: 2
-    # - name: Noita Wayback Machine ↗
-    #   url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-    #   weight: 3
-    # - name: WUOTE's copypastas
-    #   pageRef: /pastas
-    #   weight: 4
-    - name: Dunkbin Stats 2.0
-      url: "https://dunkbinstats.runfast.stream"
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 1
+    - identifier: noitastuff
+      name: More Noita Suff
       weight: 2
-    - name: NoitaMap Mod
-      pageRef: /noitamap-mod
+    - identifier: dunkorslam
+      name: Tools for DunkOrSlam
       weight: 3
-    - name: Noita Together
-      pageRef: /nt
+    - identifier: dunkbinstats
+      name: Dunkbin Stats 2.0
+      url: "https://dunkbinstats.runfast.stream"
+      parent: dunkorslam
+    - identifier: copypastas
+      name: Copypastas
+      pageRef: /pastas
       weight: 4
-    - name: Search
+    - identifier: noitamapmod
+      name: NoitaMap Mod
+      pageRef: /noitamap-mod
+      parent: noitastuff
+    - identifier: nt
+      name: Noita Together
+      pageRef: /nt
+      parent: noitastuff
+    - identifier: search
+      name: Search
       weight: 5
       params:
         type: search
-    - name: Join Discord
+    - identifier: dc
+      name: Join Discord
       url: "https://discord.gg/R2PHyHMYgx"
       weight: 6
       params:
         icon: discord-icon
-    - name: Contribute on GitHub
+    - identifier: gh
+      name: Contribute on GitHub
       url: "https://github.com/acidflow-noita/runfast"
       weight: 7
       params:
         icon: github
+    - identifier: themetoggle
+      name: Theme Toggle
+      params:
+        type: theme-toggle
+        label: false
 
 sidebar:
   - name: More stuff!
@@ -79,7 +92,7 @@ sidebar:
 
 params:
   navbar:
-    width: normal
+    width: full
     displayTitle: false
     displayLogo: true
     logo:
