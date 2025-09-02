@@ -43,21 +43,25 @@ menu:
       name: Noita Together
       pageRef: /nt
       parent: noitastuff
+    - identifier: dono
+      name: Donate
+      weight: 5
+      pageRef: /donate
     - identifier: search
       name: Search
-      weight: 5
       params:
         type: search
+      weight: 6
     - identifier: dc
       name: Join Discord
       url: "https://discord.gg/R2PHyHMYgx"
-      weight: 6
+      weight: 7
       params:
         icon: discord-icon
     - identifier: gh
       name: Contribute on GitHub
       url: "https://github.com/acidflow-noita/runfast"
-      weight: 7
+      weight: 8
       params:
         icon: github
     - identifier: themetoggle
