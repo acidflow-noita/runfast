@@ -2,11 +2,14 @@
 title: 🍝 WUOTE's copypastas
 draft: false
 type: docs
+width: wide
 sidebar:
     exclude: true
 ---
 
-{{< cards >}}
+<br/>
+
+{{< hextra/feature-grid cols="3">}}
 {{< card link="/pastas/addiction" title="💉 ADDICTION" >}}
 {{< card link="/pastas/adult-stuff" title="ADULT STUFF" >}}
 {{< card link="/pastas/anime" title="ANIME" >}}
@@ -45,4 +48,4 @@ sidebar:
 {{< card link="/pastas/workout" title="💪 WORKOUT" >}}
 {{< card link="/pastas/wplace" title="wplace" >}}
 {{< card link="/pastas/zoom" title="🚾 ZOOM" >}}
-{{< /cards >}}
+{{< /hextra/feature-grid >}}

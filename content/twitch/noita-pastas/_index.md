@@ -1,11 +1,12 @@
 ---
-title: "🍝 Noita Copypastas"
+title: '🍝 Noita Copypastas'
 date: 2024-05-01T17:17:11+06:00
 draft: false
+width: full
 type: docs
 ---
 
-{{< cards >}}
+{{< hextra/feature-grid cols="3">}}
 {{< card link="/twitch/noita-pastas/acid" title="ACID" >}}
 {{< card link="/twitch/noita-pastas/add-mana" title="ADD MANA" >}}
 {{< card link="/twitch/noita-pastas/an-someone-explain" title="AN SOMEONE EXPLAIN" >}}
@@ -22,4 +23,4 @@ type: docs
 {{< card link="/twitch/noita-pastas/you-are-great-at-noita" title="YOU ARE GREAT AT NOITA" >}}
 {{< card link="/twitch/noita-pastas/you-are-the-best-player" title="YOU ARE THE BEST PLAYER" >}}
 {{< card link="/twitch/noita-pastas/multitudes" title="MULTITUDES" >}}
-{{< /cards >}}
+{{< /hextra/feature-grid >}}

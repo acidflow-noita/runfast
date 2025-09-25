@@ -10,7 +10,7 @@ layout: runfast-home
 {{< runfast-subtitle >}} And more! {{< /runfast-subtitle >}} 
 </div>
 
-{{< hextra/feature-grid cols="3">}}
+{{< hextra/feature-grid cols="4">}}
 {{< card link="https://noitamap.com" title="Noita Map ↗" icon="noitamap-icon" image="/images/mapDemo.gif" subtitle="*Ultrafast* superzoom map for Noita" >}}
 {{< card link="/new" image="images/newcard.webp" icon="link" title="New to Noita?" subtitle="Speedrun your understanding of the game in **5&nbsp;minutes** to get the first win" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://bartender.runfast.stream/" title="Bartender" image="images/bartender.png" icon="link" subtitle="Explore Noita materials and their properties" >}}

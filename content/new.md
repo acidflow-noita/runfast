@@ -145,7 +145,7 @@ Use `noita.wiki.gg` instead.
 
 {{< callout type="info" >}}
 
-[Official Noita Wiki ↗](https://noita.wiki.gg)
+[Official Noita Wiki](https://noita.wiki.gg)
 
 {{< /callout >}}
 

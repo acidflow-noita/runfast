@@ -3,134 +3,136 @@ languageCode: en-us
 title: Run Fast by WUOTE
 
 module:
-  imports:
-    - path: github.com/imfing/hextra
+    imports:
+        - path: github.com/imfing/hextra
 
 enableInlineShortcodes: true
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  # highlight:
+    goldmark:
+        renderer:
+            unsafe: true
+    # highlight:
     # noClasses: false
 
 menu:
-  main:
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 1
-    - identifier: noitastuff
-      name: More Noita Suff
-      weight: 2
-    - identifier: dunkorslam
-      name: Tools for DunkOrSlam
-      weight: 3
-    - identifier: dunkbinstats
-      name: Dunkbin Stats 2.0
-      url: "https://dunkbinstats.runfast.stream"
-      parent: dunkorslam
-    - identifier: copypastas
-      name: Copypastas
-      pageRef: /pastas
-      weight: 4
-    - identifier: noitamapmod
-      name: NoitaMap Mod
-      pageRef: /noitamap-mod
-      parent: noitastuff
-    - identifier: nt
-      name: Noita Together
-      pageRef: /nt
-      parent: noitastuff
-    - identifier: dono
-      name: Donate
-      weight: 5
-      pageRef: /donate
-    - identifier: search
-      name: Search
-      params:
-        type: search
-      weight: 6
-    - identifier: dc
-      name: Join Discord
-      url: "https://discord.gg/R2PHyHMYgx"
-      weight: 7
-      params:
-        icon: discord-icon
-    - identifier: gh
-      name: Contribute on GitHub
-      url: "https://github.com/acidflow-noita/runfast"
-      weight: 8
-      params:
-        icon: github
-    - identifier: themetoggle
-      name: Theme Toggle
-      params:
-        type: theme-toggle
-        label: false
+    main:
+        - identifier: blog
+          name: Blog
+          pageRef: /blog
+          weight: 1
+        - identifier: noitastuff
+          name: More Noita Suff
+          weight: 2
+        - identifier: dunkorslam
+          name: Tools for DunkOrSlam
+          weight: 3
+        - identifier: dunkbinstats
+          name: Dunkbin Stats 2.0 ↗
+          url: 'https://dunkbinstats.runfast.stream'
+          parent: dunkorslam
+        - identifier: copypastas
+          name: Copypastas
+          pageRef: /pastas
+          weight: 4
+        - identifier: noitamapmod
+          name: NoitaMap Mod
+          pageRef: /noitamap-mod
+          parent: noitastuff
+        - identifier: nt
+          name: Noita Together
+          pageRef: /nt
+          parent: noitastuff
+        - identifier: dono
+          name: Donate
+          weight: 5
+          pageRef: /donate
+        - identifier: search
+          name: Search
+          params:
+              type: search
+          weight: 6
+        - identifier: dc
+          name: Join Discord
+          url: 'https://discord.gg/R2PHyHMYgx'
+          weight: 7
+          params:
+              icon: discord-icon
+        - identifier: gh
+          name: Contribute on GitHub
+          url: 'https://github.com/acidflow-noita/runfast'
+          weight: 8
+          params:
+              icon: github
+        - identifier: themetoggle
+          name: Theme Toggle
+          params:
+              type: theme-toggle
+              label: false
 
 sidebar:
-  - name: More stuff!
-    params:
-      type: separator
-    weight: 1
-  - name: Noita Map ↗
-    url: "https://noitamap.com"
-    weight: 1
-  - name: My Noita Mods on Steam ↗
-    url: "https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30"
-    weight: 2
-  - name: Noita Wayback Machine ↗
-    url: "https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine"
-    weight: 3
-  - name: WUOTE's copypastas
-    pageRef: /pastas
-    weight: 4
-  - name: Discord ↗
-    url: "https://discord.gg/R2PHyHMYgx"
-    weight: 5
-  - name: GitHub ↗
-    url: "https://github.com/orgs/acidflow-noita/repositories"
-    weight: 6
+    - name: More stuff!
+      params:
+          type: separator
+      weight: 1
+    - name: Noita Map ↗
+      url: 'https://noitamap.com'
+      weight: 1
+    - name: My Noita Mods on Steam ↗
+      url: 'https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30'
+      weight: 2
+    - name: Noita Wayback Machine ↗
+      url: 'https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine'
+      weight: 3
+    - name: WUOTE's copypastas
+      pageRef: /pastas
+      weight: 4
+    - name: Discord ↗
+      url: 'https://discord.gg/R2PHyHMYgx'
+      weight: 5
+    - name: GitHub ↗
+      url: 'https://github.com/orgs/acidflow-noita/repositories'
+      weight: 6
 
 params:
-  navbar:
-    width: full
-    displayTitle: false
-    displayLogo: true
-    logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      link: /
-      width: 100
-      height: 50
+    externalLinkDecoration: true
 
-  footer:
-    disabled: true
-    displayCopyright: true
-    displayPoweredBy: false
+    navbar:
+        width: full
+        displayTitle: false
+        displayLogo: true
+        logo:
+            path: images/logo.svg
+            dark: images/logo-dark.svg
+            link: /
+            width: 100
+            height: 50
 
-  theme:
-    default: dark
-    displayToggle: false
+    footer:
+        disabled: true
+        displayCopyright: true
+        displayPoweredBy: false
 
-  page:
-    width: normal
+    theme:
+        default: dark
+        displayToggle: false
 
-  search:
-    enable: true
-    type: flexsearch
-    flexsearch:
-      index: content
-      tokenize: full
-  
-  highlight:
-    copy:
-      enable: true
-      # hover | always
-      display: always
+    page:
+        width: wide
+
+    search:
+        enable: true
+        type: flexsearch
+        flexsearch:
+            index: content
+            tokenize: full
+
+    highlight:
+        copy:
+            enable: true
+            # hover | always
+            display: always
 
 services:
-  googleAnalytics:
-    ID: G-E60YMP3EY2
+    googleAnalytics:
+        ID: G-E60YMP3EY2
