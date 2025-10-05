@@ -1,11 +1,11 @@
 ---
-title: NEW YEARS RESOLUTION
+title: New Years Resolution
 type: docs
 draft: false
 ---
 
-> OK OK THIS NEW YEARS RESOLUTION IS: NO MORE COPYPASTAS, NOT A SINGLE ONE COPYPASTA, I WILL WRITE BLAND GENERIC TEXTS WHICH NOONE WOULD LIKE TO COPY AND PASTE LIKE EVER
+> Ok ok this new years resolution is: no more copypastas, not a single one copypasta, I will write bland generic texts which noone would like to copy and paste like ever
 
 ```plaintext {filename="Copy to clipboard"}
-OK OK THIS NEW YEARS RESOLUTION IS: NO MORE COPYPASTAS, NOT A SINGLE ONE COPYPASTA, I WILL WRITE BLAND GENERIC TEXTS WHICH NOONE WOULD LIKE TO COPY AND PASTE LIKE EVER
+Ok ok this new years resolution is: no more copypastas, not a single one copypasta, I will write bland generic texts which noone would like to copy and paste like ever
 ```

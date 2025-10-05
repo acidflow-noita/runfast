@@ -1,11 +1,11 @@
 ---
-title: MINECRAFT IS THE BEST GAME EVER
+title: Minecraft Is The Best Game Ever
 type: docs
 draft: false
 ---
 
-> YOU CANNOT COMPARE NOITA TO SUCH A MASTERPIECE OF MINECRAFT. NOITA IS ABOUT DESTRUCTION AND DUMBING DOWN, MINECRAFT RAISED SEVERAL GENERATIONS OF GENIOUSES LIKE LEGO DID ITS THE GAME OF GAMES IT FUELS YOUR CREATIVITY. DONT TALK ABOUT NOITA IN MY MINECRAFR SERVER EVER AGAIN OR I WILL KICK YOU OUT
+> You cannot compare noita to such a masterpiece of minecraft. Noita is about destruction and dumbing down, minecraft raised several generations of geniouses like lego did its the game of games it fuels your creativity. Dont talk about noita in my minecrafr server ever again or I will kick you out
 
 ```plaintext {filename="Copy to clipboard"}
-YOU CANNOT COMPARE NOITA TO SUCH A MASTERPIECE OF MINECRAFT. NOITA IS ABOUT DESTRUCTION AND DUMBING DOWN, MINECRAFT RAISED SEVERAL GENERATIONS OF GENIOUSES LIKE LEGO DID ITS THE GAME OF GAMES IT FUELS YOUR CREATIVITY. DONT TALK ABOUT NOITA IN MY MINECRAFR SERVER EVER AGAIN OR I WILL KICK YOU OUT
+You cannot compare noita to such a masterpiece of minecraft. Noita is about destruction and dumbing down, minecraft raised several generations of geniouses like lego did its the game of games it fuels your creativity. Dont talk about noita in my minecrafr server ever again or I will kick you out
 ```

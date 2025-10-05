@@ -1,11 +1,11 @@
 ---
-title: START A STARTUP
+title: Start A Startup
 type: docs
 draft: false
 ---
 
-> dude i have applied to Y COMBINATOR YESTERDAY WITH MY IDEA OF A NOITA INFINITE VOMIT FACTORY: EAT YOUR VOMIT TO PRODUCE MORE VOMIT FOR FREE I HAVE ALREADY SECURED 200 sq. MILES LAND FOR THE FACTORY
+> Dude I have applied to y combinator yesterday with my idea of a noita infinite vomit factory: eat your vomit to produce more vomit for free I have already secured 200 sq. miles land for the factory
 
 ```plaintext {filename="Copy to clipboard"}
-dude i have applied to Y COMBINATOR YESTERDAY WITH MY IDEA OF A NOITA INFINITE VOMIT FACTORY: EAT YOUR VOMIT TO PRODUCE MORE VOMIT FOR FREE I HAVE ALREADY SECURED 200 sq. MILES LAND FOR THE FACTORY
+Dude I have applied to y combinator yesterday with my idea of a noita infinite vomit factory: eat your vomit to produce more vomit for free I have already secured 200 sq. miles land for the factory
 ```

@@ -1,5 +1,5 @@
 ---
-title: YOU ARE GREAT AT NOITA
+title: You Are Great At Noita
 type: docs
 draft: false
 ---

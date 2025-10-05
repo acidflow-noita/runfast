@@ -1,5 +1,5 @@
 ---
-title: NEW DOTA 2 HERO
+title: New Dota 2 Hero
 type: docs
 draft: false
 ---

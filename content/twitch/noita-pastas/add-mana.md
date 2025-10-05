@@ -1,11 +1,11 @@
 ---
-title: ADD MANA
+title: Add Mana
 type: docs
 draft: false
 ---
 
-> ADD MANA IS A VERY LAZY SPELL ITS SO BLAND TO THE POINT GAME USUALLY HANLDS YOU THREE OF THEM ON ONE WAND CAUSE DEVS FAILED TO BALANCE THE GAME AND "NERFED" THE AMOUNT OF MANA THE SPELL GIVES YOU AND NEVER FIXED IT ANYWAYS YOU KINDA HAVE TO USE THAT WASTE OF SPACE "SPELL" TO MAKE WANDS ABOVE GERADE 1
+> Add mana is a very lazy spell its so bland to the point game usually hanlds you three of them on one wand cause devs failed to balance the game and "nerfed" the amount of mana the spell gives you and never fixed it anyways you kinda have to use that waste of space "spell" to make wands above gerade 1
 
 ```plaintext {filename="Copy to clipboard"}
-ADD MANA IS A VERY LAZY SPELL ITS SO BLAND TO THE POINT GAME USUALLY HANLDS YOU THREE OF THEM ON ONE WAND CAUSE DEVS FAILED TO BALANCE THE GAME AND "NERFED" THE AMOUNT OF MANA THE SPELL GIVES YOU AND NEVER FIXED IT ANYWAYS YOU KINDA HAVE TO USE THAT WASTE OF SPACE "SPELL" TO MAKE WANDS ABOVE GERADE 1
+Add mana is a very lazy spell its so bland to the point game usually hanlds you three of them on one wand cause devs failed to balance the game and "nerfed" the amount of mana the spell gives you and never fixed it anyways you kinda have to use that waste of space "spell" to make wands above gerade 1
 ```

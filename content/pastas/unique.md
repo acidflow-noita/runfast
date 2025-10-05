@@ -1,5 +1,5 @@
 ---
-title: 🦄 UNIQUE
+title: 🦄 Unique
 type: docs
 draft: false
 ---

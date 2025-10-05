@@ -1,11 +1,11 @@
 ---
-title: DANGERS OF SOUND REPRODUCTION
+title: Dangers of sound reproduction
 type: docs
 draft: false
 ---
 
-> PSA: NEVER LISTEN TO MUSIC WITH YOUR SPEAKERS LAYING ON THE SIDE YOU WILL BE TILTING THE SOUNDWAYS SO MUCH IT WILL BE VERY UNPLEASANT SND MIGHT EVEN CAUSE DIZZINESS
+> PSA: never listen to music with your speakers laying on the side you will be tilting the soundways so much it will be very unpleasant snd might even cause dizziness
 
 ```plaintext {filename="Copy to clipboard"}
-PSA: NEVER LISTEN TO MUSIC WITH YOUR SPEAKERS LAYING ON THE SIDE YOU WILL BE TILTING THE SOUNDWAYS SO MUCH IT WILL BE VERY UNPLEASANT SND MIGHT EVEN CAUSE DIZZINESS
+PSA: never listen to music with your speakers laying on the side you will be tilting the soundways so much it will be very unpleasant snd might even cause dizziness
 ```

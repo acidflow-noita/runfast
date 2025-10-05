@@ -1,11 +1,11 @@
 ---
-title: OK NOITA PLAYER
+title: Ok Noita Player
 type: docs
 draft: false
 ---
 
-> I THINK I BECAME FAIRLY OK AT PLAYING THIS GAME I WOULD LIKE TO THANK ALIAS FOR TABLET KICKING LESSONS, MICH TEACHING ME HOW TO RUN FAST, SHIBA FOR PLASMA LESSONS, WITO FOR AESTETIC WANDS BUILDS, DARREN FOR HOMING ROCK BUILDS, AND FINALLY DUNK FOR TECHING ME HOW TO THROW ON PURPOSE AND MAKING IT NOT OBVIOUS
+> I think I became fairly ok at playing this game I would like to thank alias for tablet kicking lessons, mich teaching me how to run fast, shiba for plasma lessons, wito for aestetic wands builds, darren for homing rock builds, and finally dunk for teching me how to throw on purpose and making it not obvious
 
 ```plaintext {filename="Copy to clipboard"}
-I THINK I BECAME FAIRLY OK AT PLAYING THIS GAME I WOULD LIKE TO THANK ALIAS FOR TABLET KICKING LESSONS, MICH TEACHING ME HOW TO RUN FAST, SHIBA FOR PLASMA LESSONS, WITO FOR AESTETIC WANDS BUILDS, DARREN FOR HOMING ROCK BUILDS, AND FINALLY DUNK FOR TECHING ME HOW TO THROW ON PURPOSE AND MAKING IT NOT OBVIOUS
+I think I became fairly ok at playing this game I would like to thank alias for tablet kicking lessons, mich teaching me how to run fast, shiba for plasma lessons, wito for aestetic wands builds, darren for homing rock builds, and finally dunk for teching me how to throw on purpose and making it not obvious
 ```

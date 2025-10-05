@@ -1,5 +1,5 @@
 ---
-title: POPULAR STREAM TITLE
+title: Popular Stream Title
 type: docs
 draft: false
 ---

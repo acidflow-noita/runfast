@@ -1,11 +1,11 @@
 ---
-title: HI IM NEW TO THIS CHANNEL
+title: Hi Im New To This Channel
 type: docs
 draft: false
 ---
 
-> HI TWICH RECOMMENDED ME THIS CHANNEL I HOPE ITS GOOD IS IT ONE OF THE CHAD ALL GAME NO BULLSHIT CHANNELS OR IS IT TALK FOR LIKE TWO HOURS STrAIGHT ABOUT NOTHING CHANNEL?
+> Hi twich recommended me this channel I hope its good is it one of the chad all game no bullshit channels or is it talk for like two hours straight about nothing channel?
 
 ```plaintext {filename="Copy to clipboard"}
-HI TWICH RECOMMENDED ME THIS CHANNEL I HOPE ITS GOOD IS IT ONE OF THE CHAD ALL GAME NO BULLSHIT CHANNELS OR IS IT TALK FOR LIKE TWO HOURS STrAIGHT ABOUT NOTHING CHANNEL?
+Hi twich recommended me this channel I hope its good is it one of the chad all game no bullshit channels or is it talk for like two hours straight about nothing channel?
 ```

@@ -1,5 +1,5 @@
 ---
-title: NOITA REVIEW
+title: Noita Review
 type: docs
 draft: false
 ---

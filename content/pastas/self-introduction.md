@@ -1,11 +1,11 @@
 ---
-title: SELF-INTORDUCTION
+title: Self-Intorduction
 type: docs
 draft: false
 ---
 
-> HI HELLO FELLO GAMERS I CAME TO THIS CHAT TO SAY HI AND INTRODUCE MYSELF I LOOK ALL OVER TWOTCH SEEKING NEW VTUBERS YOUR MODEL LOOKS GORGEOUS IS IT CUSTOM MADE ALSO I LIKE YOUR SCENES AND THE FACT THAT VOICE CHANGR IS NOT OBVIOUS AT ALL VERY HIGH GRADE QUALITY PRODUCTION HAVE A GREAT DAY
+> Hi hello fello gamers I came to this chat to say hi and introduce myself I look all over twotch seeking new vtubers your model looks gorgeous is it custom made also I like your scenes and the fact that voice changr is not obvious at all very high grade quality production have a great day
 
 ```plaintext {filename="Copy to clipboard"}
-HI HELLO FELLO GAMERS I CAME TO THIS CHAT TO SAY HI AND INTRODUCE MYSELF I LOOK ALL OVER TWOTCH SEEKING NEW VTUBERS YOUR MODEL LOOKS GORGEOUS IS IT CUSTOM MADE ALSO I LIKE YOUR SCENES AND THE FACT THAT VOICE CHANGR IS NOT OBVIOUS AT ALL VERY HIGH GRADE QUALITY PRODUCTION HAVE A GREAT DAY
+Hi hello fello gamers I came to this chat to say hi and introduce myself I look all over twotch seeking new vtubers your model looks gorgeous is it custom made also I like your scenes and the fact that voice changr is not obvious at all very high grade quality production have a great day
 ```

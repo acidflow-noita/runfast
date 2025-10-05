@@ -1,11 +1,11 @@
 ---
-title: 🚾 ZOOM
+title: 🚾 Zoom
 type: docs
 draft: false
 ---
 
-> WELCOME TO YOUR DAILY ZOOM MEETING. JOINING: A GUY WHO USES A GREEN SCREEN WITH NO LIGHT IN THE ROOM WHILE WEARING A GREEN SHIRT, A LADY WITH 46 CATS SCREAMING IN THE BACKGROUND, A DEMONIC-SOUNDING CREATURE WITH NO CAM "BOB" WHICH HEAVILY BREATHES INTO THE MIC, A VTUBER WANNABE WITH ANIMATED ELFEN FOREST BACKGROUND, YOUR CTO WHO CANTFIND "SHARE SCREEN" BUTTON (YOU WORK FOR ZOOM), AND MR FREEZE WHO CUTS OUT IN THE MIDDLE OF HIS RANT THEN ASKS "IS THAT CLEAR"?
+> Welcome to your daily zoom meeting. joining: a guy who uses a green screen with no light in the room while wearing a green shirt, a lady with 46 cats screaming in the background, a demonic-sounding mouth-breathing creature "bob" with no cam, a vtuber wannabe with animated elfen forest background, your CTO who can't find the "share screen" button (you work for zoom), and Mr. Freeze who cuts out for 3 minutes during his speech then asks "is that clear"?
 
 ```plaintext {filename="Copy to clipboard"}
-WELCOME TO YOUR DAILY ZOOM MEETING. JOINING: A GUY WHO USES A GREEN SCREEN WITH NO LIGHT IN THE ROOM WHILE WEARING A GREEN SHIRT, A LADY WITH 46 CATS SCREAMING IN THE BACKGROUND, A DEMONIC-SOUNDING CREATURE WITH NO CAM "BOB" WHICH HEAVILY BREATHES INTO THE MIC, A VTUBER WANNABE WITH ANIMATED ELFEN FOREST BACKGROUND, YOUR CTO WHO CANTFIND "SHARE SCREEN" BUTTON (YOU WORK FOR ZOOM), AND MR FREEZE WHO CUTS OUT IN THE MIDDLE OF HIS RANT THEN ASKS "IS THAT CLEAR"?
+Welcome to your daily zoom meeting. joining: a guy who uses a green screen with no light in the room while wearing a green shirt, a lady with 46 cats screaming in the background, a demonic-sounding mouth-breathing creature "bob" with no cam, a vtuber wannabe with animated elfen forest background, your CTO who can't find the "share screen" button (you work for zoom), and Mr. Freeze who cuts out for 3 minutes during his speech then asks "is that clear"?
 ```

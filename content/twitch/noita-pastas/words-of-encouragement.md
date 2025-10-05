@@ -1,5 +1,5 @@
 ---
-title: WORDS OF ENCOURAGEMENT
+title: Words Of Encouragement
 type: docs
 draft: false
 ---

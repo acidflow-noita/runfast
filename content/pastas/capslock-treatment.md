@@ -1,5 +1,5 @@
 ---
-title: CAPSLOCK TREATMENT
+title: Capslock treatment
 type: docs
 draft: false
 ---

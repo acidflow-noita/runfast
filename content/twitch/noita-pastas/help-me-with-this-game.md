@@ -1,5 +1,5 @@
 ---
-title: HELP ME WITH THIS GAME
+title: Help Me With This Game
 type: docs
 draft: false
 ---
