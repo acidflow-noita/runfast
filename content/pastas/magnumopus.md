@@ -1,5 +1,5 @@
 ---
-title: MAGNUM OPUS
+title: Magnum opus
 type: docs
 draft: false
 ---

@@ -1,11 +1,11 @@
 ---
-title: 💪 WORKOUT
+title: 💪 Workout
 type: docs
 draft: false
 ---
 
-> I AM SO FAT AND UNFIT THAT WHEN I WAS BLOWING MY NOSE VERY HARD EARLIER TODAY MY APPLE WATCH DETECTED A WORKOUT. I ALSO THINK I LOST AT LEAST 40 OUNNDS DURING THE PROCESS.
+> I am so fat and unfit that when I was blowing my nose very hard earlier today my apple watch detected a workout. I also think I lost at least 40 pounds during the process.
 
 ```plaintext {filename="Copy to clipboard"}
-I AM SO FAT AND UNFIT THAT WHEN I WAS BLOWING MY NOSE VERY HARD EARLIER TODAY MY APPLE WATCH DETECTED A WORKOUT. I ALSO THINK I LOST AT LEAST 40 OUNNDS DURING THE PROCESS.
+I am so fat and unfit that when I was blowing my nose very hard earlier today my apple watch detected a workout. I also think I lost at least 40 pounds during the process.
 ```

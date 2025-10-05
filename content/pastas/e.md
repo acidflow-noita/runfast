@@ -1,11 +1,11 @@
 ---
-title: E
+title: e
 type: docs
 draft: false
 ---
 
-> WAIT A SEC DO E GIRLS PRODUCE E WASTE OR NOT??!
+> Wait a sec do e girls produce e waste or not??!
 
 ```plaintext {filename="Copy to clipboard"}
-WAIT A SEC DO E GIRLS PRODUCE E WASTE OR NOT??!
+Wait a sec do e girls produce e waste or not??!
 ```

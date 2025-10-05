@@ -1,11 +1,11 @@
 ---
-title: AN SOMEONE EXPLAIN
+title: An Someone Explain
 type: docs
 draft: false
 ---
 
-> AN SOMEONE EXPLAIN WHAT IS GOOD ABOUT THIS GAME? VISUALLY IT LOOKS LIKE IT IS FROM THE NINETIES FROWN
+> An someone explain what is good about this game? Visually it looks like it is from the nineties frown
 
 ```plaintext {filename="Copy to clipboard"}
-AN SOMEONE EXPLAIN WHAT IS GOOD ABOUT THIS GAME? VISUALLY IT LOOKS LIKE IT IS FROM THE NINETIES FROWN
+An someone explain what is good about this game? Visually it looks like it is from the nineties frown
 ```

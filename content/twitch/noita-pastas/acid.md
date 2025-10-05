@@ -1,5 +1,5 @@
 ---
-title: ACID
+title: Acid
 type: docs
 draft: false
 ---

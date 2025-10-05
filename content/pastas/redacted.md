@@ -1,5 +1,5 @@
 ---
-title: REDACTED
+title: Redacted
 type: docs
 draft: false
 ---

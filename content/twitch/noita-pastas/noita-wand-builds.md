@@ -1,5 +1,5 @@
 ---
-title: NOITA WAND BUILDS
+title: Noita Wand Builds
 type: docs
 draft: false
 ---

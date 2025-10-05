@@ -1,11 +1,11 @@
 ---
-title: MY TWITCH EXPERIENCE
+title: My Twitch Experience
 type: docs
 draft: false
 ---
 
-> I AM SORRY I ANNOT WATCH THIS CHANNEL ANYMORE DUE TO UNCANNY EFFECT BEING TOO STRONG I MEAN THE DEPICTION OF THE ELDRICH HORROR MONSTER IS GOOD BUT THE GIRL PART IS NOT BELIEVABLE ENOUGH AGAIN I AM SORRY
+> I am sorry I annot watch this channel anymore due to uncanny effect being too strong I mean the depiction of the eldrich horror monster is good but the girl part is not believable enough again I am sorry
 
 ```plaintext {filename="Copy to clipboard"}
-I AM SORRY I ANNOT WATCH THIS CHANNEL ANYMORE DUE TO UNCANNY EFFECT BEING TOO STRONG I MEAN THE DEPICTION OF THE ELDRICH HORROR MONSTER IS GOOD BUT THE GIRL PART IS NOT BELIEVABLE ENOUGH AGAIN I AM SORRY
+I am sorry I annot watch this channel anymore due to uncanny effect being too strong I mean the depiction of the eldrich horror monster is good but the girl part is not believable enough again I am sorry
 ```

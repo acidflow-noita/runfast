@@ -1,5 +1,5 @@
 ---
-title: 🔐 ENCRYPTED
+title: 🔐 Encrypted
 type: docs
 draft: false
 ---

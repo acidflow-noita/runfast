@@ -1,11 +1,11 @@
 ---
-title: TYPICAL TWITCH STERAMER
+title: Typical Twitch Steramer
 type: docs
 draft: false
 ---
 
-> STARTS 40 MINUTES LATER, “HEY CHAT HOWS IT GOING IVE BEEN VERY BUSY I ALSO OVERSLEPT SO TODAYS GONNA BE A SHORTER STREAM”, NOTHING WORKS, SCENES ALL MESSED UP, GAME IS NOT CAPTURING, FORGOT TO UNMUTE, BOT IS DEAD, NOTICES WRONG SCENE BEEN ON FOR THE LAST 20 MINUTES, “IM A PROFESSIONAL STREAMER” JOKE, KEEPS COMPLAINING ABOUT BEZOS, FORGETS THEIR MODS' NAMES
+> Starts 40 minutes later, “hey chat hows it going ive been very busy I also overslept so todays gonna be a shorter stream”, nothing works, scenes all messed up, game is not capturing, forgot to unmute, bot is dead, notices wrong scene been on for the last 20 minutes, “I'm a professional streamer” joke, keeps complaining about bezos, forgets their mods' names
 
 ```plaintext {filename="Copy to clipboard"}
-STARTS 40 MINUTES LATER, “HEY CHAT HOWS IT GOING IVE BEEN VERY BUSY I ALSO OVERSLEPT SO TODAYS GONNA BE A SHORTER STREAM”, NOTHING WORKS, SCENES ALL MESSED UP, GAME IS NOT CAPTURING, FORGOT TO UNMUTE, BOT IS DEAD, NOTICES WRONG SCENE BEEN ON FOR THE LAST 20 MINUTES, “IM A PROFESSIONAL STREAMER” JOKE, KEEPS COMPLAINING ABOUT BEZOS, FORGETS THEIR MODS' NAMES
+Starts 40 minutes later, “hey chat hows it going ive been very busy I also overslept so todays gonna be a shorter stream”, nothing works, scenes all messed up, game is not capturing, forgot to unmute, bot is dead, notices wrong scene been on for the last 20 minutes, “I'm a professional streamer” joke, keeps complaining about bezos, forgets their mods' names
 ```

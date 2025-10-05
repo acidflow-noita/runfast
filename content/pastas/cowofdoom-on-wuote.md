@@ -1,5 +1,5 @@
 ---
-title: COWOFDOOM ON WUOTE
+title: Cowofdoom on wuote
 type: docs
 draft: false
 ---

@@ -1,11 +1,11 @@
 ---
-title: FLAWLESS, ACCURATE TYPOING
+title: Flawless, accurateypoing
 type: docs
 draft: false
 ---
 
-> SOMEONE QUICK SCREENSHOT MY MESSAG WITH ZERO TYPOS
+> Someone quick screenshot my messag with zero typos
 
 ```plaintext {filename="Copy to clipboard"}
-SOMEONE QUICK SCREENSHOT MY MESSAG WITH ZERO TYPOS
+Someone quick screenshot my messag with zero typos
 ```

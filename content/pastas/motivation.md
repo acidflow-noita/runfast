@@ -1,11 +1,11 @@
 ---
-title: MOTIVATION
+title: Motivation
 type: docs
 draft: false
 ---
 
-> OK OK IF YOU HAVE BEEN WAITING FOR THAT MOTIVATION HERE IT IS STOP QUITTING QUITTING THE QUITTING CULTURE IS WEAK YOU HAVE TO PUSH FORWARD BE STRONG STOP QUITTING BE A CHAMPUION AND A WINNER
+> Ok ok if you have been waiting for that motivation here it is stop quitting quitting the quitting culture is weak you have to push forward be strong stop quitting be a champuion and a winner
 
 ```plaintext {filename="Copy to clipboard"}
-OK OK IF YOU HAVE BEEN WAITING FOR THAT MOTIVATION HERE IT IS STOP QUITTING QUITTING THE QUITTING CULTURE IS WEAK YOU HAVE TO PUSH FORWARD BE STRONG STOP QUITTING BE A CHAMPUION AND A WINNER
+Ok ok if you have been waiting for that motivation here it is stop quitting quitting the quitting culture is weak you have to push forward be strong stop quitting be a champuion and a winner
 ```

@@ -1,11 +1,11 @@
 ---
-title: YOU ARE THE BEST PLAYER
+title: You Are The Best Player
 type: docs
 draft: false
 ---
 
-> OK I FEEL LIKE DURING THIS TOUGH TIMES IT IS VERY NEEDED TO SHOW MY SUPPORT AND APPRECIATION. DONT LISTEN TO HATERS, PLEASE KNOW THAT YOUR HARD WORK, YOUR GENUINE APPROACH TO ENTERTAINING THE AUDIENCE AND UNIQUE PLAYSTYLE MAKES YOU THE BEST MINECRAFT PLAYER IN THE WORLD, A CLASS OF ITS OWN, THERES NO COMPETITION! <3
+> Ok I feel like during this tough times it is very needed to show my support and appreciation. dont listen to haters, please know that your hard work, your genuine approach to entertaining the audience and unique playstyle makes you the best minecraft player in the world, a class of its own, theres no competition! <3
 
 ```plaintext {filename="Copy to clipboard"}
-OK I FEEL LIKE DURING THIS TOUGH TIMES IT IS VERY NEEDED TO SHOW MY SUPPORT AND APPRECIATION. DONT LISTEN TO HATERS, PLEASE KNOW THAT YOUR HARD WORK, YOUR GENUINE APPROACH TO ENTERTAINING THE AUDIENCE AND UNIQUE PLAYSTYLE MAKES YOU THE BEST MINECRAFT PLAYER IN THE WORLD, A CLASS OF ITS OWN, THERES NO COMPETITION! <3
+Ok I feel like during this tough times it is very needed to show my support and appreciation. dont listen to haters, please know that your hard work, your genuine approach to entertaining the audience and unique playstyle makes you the best minecraft player in the world, a class of its own, theres no competition! <3
 ```

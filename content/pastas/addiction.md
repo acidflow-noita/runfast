@@ -1,5 +1,5 @@
 ---
-title: 💉 ADDICTION
+title: 💉 Addiction
 type: docs
 draft: false
 ---

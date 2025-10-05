@@ -1,11 +1,11 @@
 ---
-title: THANKS
+title: Thanks
 type: docs
 draft: false
 ---
 
-> THANKS `_____INSERT CHANNEL NAME____` YOURE`____INSERT QUALITY____` TOO
+> Thanks `_____INSERT CHANNEL NAME____` you'are `____INSERT QUALITY____` too
 
 ```plaintext {filename="Copy to clipboard"}
-THANKS `_____INSERT CHANNEL NAME____` YOURE`____INSERT QUALITY____` TOO
+Thanks `_____INSERT CHANNEL NAME____` you'are `____INSERT QUALITY____` too
 ```

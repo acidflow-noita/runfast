@@ -1,11 +1,11 @@
 ---
-title: THE BEST NOITA PERK COMBO
+title: The Best Noita Perk Combo
 type: docs
 draft: false
 ---
 
-> FAST RELOAD + INFINITE AMMO IS THE BEST PERK COMBO IN NOITA IT ALLOWS YOU SPAM YOUR SHOTGUN NONSTOP ESSENTIALLY TURNING YOU INTO THE SUPER HIIDET LEADER SOLDER YOU ALSO GET A PERSONAL COOKBE CAREFUL NOT TO SLIP ON OIL ITS DANGEROUS OUT THERE
+> Fast reload + infinite ammo is the best perk combo in noita it allows you spam your shotgun nonstop essentially turning you into the super hiidet leader solder you also get a personal cookbe careful not to slip on oil its dangerous out there
 
 ```plaintext {filename="Copy to clipboard"}
-FAST RELOAD + INFINITE AMMO IS THE BEST PERK COMBO IN NOITA IT ALLOWS YOU SPAM YOUR SHOTGUN NONSTOP ESSENTIALLY TURNING YOU INTO THE SUPER HIIDET LEADER SOLDER YOU ALSO GET A PERSONAL COOKBE CAREFUL NOT TO SLIP ON OIL ITS DANGEROUS OUT THERE
+Fast reload + infinite ammo is the best perk combo in noita it allows you spam your shotgun nonstop essentially turning you into the super hiidet leader solder you also get a personal cookbe careful not to slip on oil its dangerous out there
 ```

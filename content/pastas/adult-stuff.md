@@ -1,11 +1,11 @@
 ---
-title: ADULT STUFF
+title: Adult stuff
 type: docs
 draft: false
 ---
 
-> HAVE YOU EVER PAYED FOR ADULT STUFF LIKE THINGS AND ACTIVITIES I DO IT REGULARLY I JUST ANNOT BE SATISFIED WITH ANYTHING ELSE FOR EXAMPLE ADULT SIZED FOOD PORTIONS ARE MUCH BETTER THAN KIDS MEALS RENTING A REAL ADULT VECHICLE IS WAY BETTER THAN RENTING A TOY CAR I AM NOT EVEN TALKING ABOUT CHILD SIZED CLOTHES OFTEN IT DOESNT EVEN FIT PROPERLY!
+> Have you ever payed for adult stuff like things and activities i do it regularly i just annot be satisfied with anything else for example adult sized food portions are much better than kids meals renting a real adult vechicle is way better than renting a toy car i am not even talking about child sized clothes often it doesnt even fit properly!
 
 ```plaintext {filename="Copy to clipboard"}
-HAVE YOU EVER PAYED FOR ADULT STUFF LIKE THINGS AND ACTIVITIES I DO IT REGULARLY I JUST ANNOT BE SATISFIED WITH ANYTHING ELSE FOR EXAMPLE ADULT SIZED FOOD PORTIONS ARE MUCH BETTER THAN KIDS MEALS RENTING A REAL ADULT VECHICLE IS WAY BETTER THAN RENTING A TOY CAR I AM NOT EVEN TALKING ABOUT CHILD SIZED CLOTHES OFTEN IT DOESNT EVEN FIT PROPERLY!
+Have you ever payed for adult stuff like things and activities i do it regularly i just annot be satisfied with anything else for example adult sized food portions are much better than kids meals renting a real adult vechicle is way better than renting a toy car i am not even talking about child sized clothes often it doesnt even fit properly!
 ```
