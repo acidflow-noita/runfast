@@ -26,6 +26,12 @@ excludeSearch: false
 {{< card icon="pot-body-icon" link="assets/3d printing model/Mic Tally Enclosure Box for Printing.3mf" title="Optional: download body only" subtitle="Enclosure body for printing" image="/blog/mic-tally-controller/assets/images/enclosure-printable-box.png" tag="tag text" tagColor="yellow" tagIcon="sparkles" tagBorder=true >}}
 {{< /cards >}}
 
+## Whats the deal?
+
+High quality audio is much more important than video. Attempting to increase speech intelligebility for remote work meetings and recording video often results in getting a dedicated microphone. A mic needs a stand of sorts. Rigid desk stands can be problematic because all the desk vibrations cause by typing on a keyboard propagate up and cause resonance which gets picked up by a microphone. Spring-equipped stands (usually called boom arms) have two advantages: they "decouple" your mic from the desk so less vibrations travel through, and they make it easier to reposition the mic. Getting one is often an inexpensive way to further
+
+What sets a good boom and and a poor one apart?
+
 ## Acquire
 
 In June of 2021 I've stumbled upon a listing titled "**Lot of 2: Yellowtec m!ka Mic Arm M (used)**". They were missing mounting adapters, XLR connectors, and the integrated lighting indicators were of the old style: red color only. Looked like they were decomissioned from a studio somewhere, and had minor surface wear marks, but nothing major. Asking price for both was around half of what a [brand new](https://shop.yellowtec.com/collections/mika-arms/products/mika-mic-arm-m?variant=39510330966180) costs, so I figured it wasn't too bad. Physical inspection confirmed that all internal tension cables and brass bushings were intact, awesome! I went ahead and bought them.
@@ -38,7 +44,7 @@ To actually use the boom arms I needed to get what was missing and replace the o
 
 ### Mounting hardware
 
-Yellowtec's m!ka family is a modular system with practically every imaginable mounting option available.
+Yellowtec's m!ka family is a modular system with practically every mounting option imaginable.
 {{% details title="Video: How to mount m!ka Microphone Arms (click to reveal)" closed="true" %}}
 {{< youtube M85zVliz9bQ >}}
 {{% /details %}}
@@ -160,6 +166,8 @@ https://blog.rahix.de/design-for-3d-printing/
 
 ## Decisions I Made and Why
 
-1. Using fillet instead of chamfer in Autodesk Fusion to process the outer corners results would have resulted in reduced printing time and "prettier"-looking box. made printing faster, but mixing visual features. ![issue](assets/images/chamfer_and_fillet_combination_issue_visualized.png 'Issue visualized') But as everything in Fusion, the order of operations matter, so using fillet first, and then chamfer fixes the issue. ![fixed](assets/images/fillet_then_chamfer_fix.png 'Fixed version')
+1. Using fillet instead of chamfer in Autodesk Fusion to process the outer corners results would have resulted in reduced printing time and "prettier"-looking box. made printing faster, but mixing visual features. ![issue](assets/images/chamfer_and_fillet_combination_issue_visualized.png 'Issue visualized') But as everything in Fusion, the order of operations matter, so using fillet first, and then chamfer fixes the issue. ![fixed](assets/images/fillet_then_chamfer_fix.png 'Fixed version').
+1. I opted to mount arduino on through-hole pins instead of using brass inserts and screws combo, or through-plastic threads. Screwing things down is more secure, but I've learned that brass inserts aren't ubiquitous, and some 3D printers' lack of "resolution" and precision characteristics don't allow printing threading connections of a small diameter. Self-tapping, flexible connection points, and other techniques often used in 3D printing are available. I might improve that part of the design in the future if I feel like it. Current design is good enough for a static box.
+1. The lid does not firmy click in place. Again, the dovetail is good enough for a static box, but may be improved.
 
 ## Notes
