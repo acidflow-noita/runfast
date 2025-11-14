@@ -12,7 +12,7 @@ toc: false
 
 {{< cards >}}
 {{< card link="https://throne.com/wuote" title="Throne ↗" icon="throne-icon" image="/images/throne_card.png" subtitle="This is the best way to support me currently" >}}
-{{< card link="https://onlyfans.com/wuote" title="For all my fans ↗" icon="onlyfans-icon" image="/images/onlyfans_card.svg" subtitle="Coming soon" >}}
+{{< card title="For all my fans ↗" icon="onlyfans-icon" image="/images/onlyfans_card.svg" subtitle="Coming soon (It's a joke)" >}}
 {{< card title="Ko-fi donations don't come through at the moment" icon="ko-fi-icon" image="/images/ko_fi_card_inactive.png" subtitle="Sorry" >}}
 {{< card title="Patreon is inactive at the moment, don't join" icon="patreon-icon" image="/images/patreon_card_inactive.png" subtitle="Oops" >}}
 {{< /cards >}}
