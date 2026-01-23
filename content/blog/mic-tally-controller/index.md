@@ -18,7 +18,9 @@ excludeSearch: false
 
 {{< badge content="I Cooked" icon="pot-full-icon" color="green" tagBorder=true >}}
 
-{{< threejs version="0.182.0" id="3d-model" src="assets/webrender/stl-viewer.js" >}}
+## Interactive 3D Model Demo
+Below is not a gif, its a 3D model which you can rotate and zoom, give it a try.
+{{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
 
 ## Speedrun
 

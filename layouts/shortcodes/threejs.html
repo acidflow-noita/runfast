@@ -3,6 +3,7 @@
 {{ $version := .Get "version" }}
 {{ $id := .Get "id" }}
 {{ $src := .Get "src" }}
+{{ $importmap := .Get "importmap" | default "true" }}
 
 <!-- Styling for the viewer container -->
 <style>
@@ -22,7 +23,8 @@
 <!-- Create a container for rendering the scene -->
 <div id="threejs-container-{{ $id }}" class="threejs-viewer"></div>
 
-<!-- Import Three.js -->
+{{ if eq $importmap "true" }}
+<!-- Import Three.js (only include once per page) -->
 <script type="importmap">
   {
     "imports": {
@@ -31,6 +33,7 @@
     }
   }
 </script>
+{{ end }}
 
 <!-- Load the script -->
 <script type="module" src="{{ $src }}"></script>
