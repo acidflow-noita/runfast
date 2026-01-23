@@ -18,6 +18,8 @@ excludeSearch: false
 
 {{< badge content="I Cooked" icon="pot-full-icon" color="green" tagBorder=true >}}
 
+{{< threejs version="0.182.0" id="3d-model" src="assets/webrender/stl-viewer.js" >}}
+
 ## Speedrun
 
 {{< cards cols="3">}}

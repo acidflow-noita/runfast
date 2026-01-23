@@ -1,0 +1,36 @@
+<!-- Three.js short code for linking JS code and rendering a scene -->
+
+{{ $version := .Get "version" }}
+{{ $id := .Get "id" }}
+{{ $src := .Get "src" }}
+
+<!-- Styling for the viewer container -->
+<style>
+  .threejs-viewer {
+    width: 100%;
+    height: 500px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .threejs-viewer canvas {
+    display: block;
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>
+
+<!-- Create a container for rendering the scene -->
+<div id="threejs-container-{{ $id }}" class="threejs-viewer"></div>
+
+<!-- Import Three.js -->
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/examples/jsm/"
+    }
+  }
+</script>
+
+<!-- Load the script -->
+<script type="module" src="{{ $src }}"></script>
