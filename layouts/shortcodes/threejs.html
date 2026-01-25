@@ -1,23 +1,21 @@
 <!-- Three.js short code for linking JS code and rendering a scene -->
 
-{{ $version := .Get "version" }}
-{{ $id := .Get "id" }}
-{{ $src := .Get "src" }}
+{{ $version := .Get "version" }} {{ $id := .Get "id" }} {{ $src := .Get "src" }}
 {{ $importmap := .Get "importmap" | default "true" }}
 
 <!-- Styling for the viewer container -->
 <style>
-  .threejs-viewer {
-    width: 100%;
-    height: 500px;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  .threejs-viewer canvas {
-    display: block;
-    width: 100% !important;
-    height: 100% !important;
-  }
+    .threejs-viewer {
+        width: 100%;
+        height: 500px;
+        border-radius: 1.5rem;
+        overflow: hidden;
+    }
+    .threejs-viewer canvas {
+        display: block;
+        width: 100% !important;
+        height: 100% !important;
+    }
 </style>
 
 <!-- Create a container for rendering the scene -->
@@ -26,12 +24,12 @@
 {{ if eq $importmap "true" }}
 <!-- Import Three.js (only include once per page) -->
 <script type="importmap">
-  {
-    "imports": {
-      "three": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/build/three.module.js",
-      "three/addons/": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/examples/jsm/"
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@{{ $version }}/examples/jsm/"
+        }
     }
-  }
 </script>
 {{ end }}
 

@@ -18,8 +18,8 @@ excludeSearch: false
 
 {{< badge content="I Cooked" icon="pot-full-icon" color="green" tagBorder=true >}}
 
-## Interactive 3D Model Demo
-Below is not a gif, its a 3D model which you can rotate and zoom, give it a try.
+## Interactive 3D model preview
+Below is not a gif, its a live 3D model renderer which you can rotate via {{< icon "left-click-icon" >}}left click, move around via {{< icon "right-click-icon" >}}right click, and zoom in and out using the mousewheel. Give it a try.
 {{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
 
 ## Speedrun
