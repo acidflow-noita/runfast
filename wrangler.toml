@@ -1,7 +1,7 @@
 name = "runfast-stream-emote-worker"
 
 main = "src/index.ts"
-compatibility_date = "2024-12-18"
+compatibility_date = "2026-01-20"
 
 [vars]
 APP_HOST = "https://runfast-stream-emote-worker.wuote.workers.dev"

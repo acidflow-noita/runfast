@@ -18,6 +18,11 @@ excludeSearch: false
 
 {{< badge content="I Cooked" icon="pot-full-icon" color="green" tagBorder=true >}}
 
+## Interactive 3D model preview
+
+Below is not a gif, its a live 3D model renderer which you can rotate via {{< icon "left-click-icon" >}}left click, move around via {{< icon "right-click-icon" >}}right click, and zoom in and out using the mousewheel. Give it a try.
+{{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
+
 ## Speedrun
 
 {{< cards cols="3">}}
@@ -114,9 +119,9 @@ On Thu, Aug 19, 2021, I received the response:
 > thanks for requesting the Lighthouse Software.
 > A few things to note:
 >
-> -   The source code is not free of charge and cannot been downloaded. Instead, we ship a USB stick with the Source code. It costs 25€ + Fright Charge
-> -   The source code is for personal use, only.
-> -   There is no technical support for the building process or for the resulting binary.
+> - The source code is not free of charge and cannot been downloaded. Instead, we ship a USB stick with the Source code. It costs 25€ + Fright Charge
+> - The source code is for personal use, only.
+> - There is no technical support for the building process or for the resulting binary.
 
 Adam Hall 4903 Rubber Feet https://www.adamhall.com/shop/en/feet-skids/4903
 
