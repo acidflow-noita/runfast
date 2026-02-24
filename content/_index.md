@@ -18,4 +18,5 @@ layout: runfast-home
 {{< card link="https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine" title="Noita Wayback Machine ↗" icon="time-rewind-icon" image="/images/NoitaWaybackMachineLogo.webp" subtitle="Time machine for Noita. Play any public build of the game." >}}
 {{< card link="https://steamcommunity.com/id/wuote/myworkshopfiles/?appid=881100&p=1&numperpage=30" title="Learn Noita Modding ↗" icon="steam-icon" image="/images/noita-mods.png" subtitle="Want to learn Noita modding? The mods I made will teach you changing character's and creatures' appearance, scripting, sounds, settings etc." >}}
 {{< card link="https://twitch.tv/wuote" title="Made by WUOTE ↗" icon="twitch-icon" image="/images/WUOTE.webp" subtitle="Run fast and throw hard!" >}}
+{{< card link="/support" image="images/support_card.png" icon="link" title="Support" subtitle="Ways to support me" method="Resize" options="600x" >}}
 {{< /hextra/feature-grid >}}
