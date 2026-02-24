@@ -20,21 +20,17 @@ menu:
         - identifier: blog
           name: Blog
           pageRef: /blog
-          weight: 1
+          weight: 3
         - identifier: noitastuff
           name: More Noita Suff
-          weight: 2
+          weight: 1
         - identifier: dunkorslam
           name: Tools for DunkOrSlam
-          weight: 3
+          weight: 2
         - identifier: dunkbinstats
           name: Dunkbin Stats 2.0 ↗
           url: 'https://dunkbinstats.runfast.stream'
           parent: dunkorslam
-        - identifier: copypastas
-          name: Copypastas
-          pageRef: /pastas
-          weight: 4
         - identifier: noitamapmod
           name: NoitaMap Mod
           pageRef: /noitamap-mod
@@ -43,10 +39,6 @@ menu:
           name: Noita Together
           pageRef: /nt
           parent: noitastuff
-        - identifier: dono
-          name: Donate
-          weight: 5
-          pageRef: /donate
         - identifier: search
           name: Search
           params:
@@ -84,15 +76,12 @@ sidebar:
     - name: Noita Wayback Machine ↗
       url: 'https://github.com/acidflow-noita/noita-wayback-machine?tab=readme-ov-file#noita-wayback-machine'
       weight: 3
-    - name: WUOTE's copypastas
-      pageRef: /pastas
-      weight: 4
     - name: Discord ↗
       url: 'https://discord.gg/R2PHyHMYgx'
-      weight: 5
+      weight: 4
     - name: GitHub ↗
       url: 'https://github.com/orgs/acidflow-noita/repositories'
-      weight: 6
+      weight: 5
 
 params:
     externalLinkDecoration: true
@@ -132,6 +121,8 @@ params:
             enable: true
             # hover | always
             display: always
+    imageZoom:
+      enable: true
 
 services:
     googleAnalytics:

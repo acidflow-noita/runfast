@@ -1,5 +1,5 @@
 module github.com/acidflow-noita/runfast
 
-go 1.22.4
+go 1.26
 
-require github.com/imfing/hextra v0.11.2-0.20260124124249-7e56f0578adb // indirect
+require github.com/imfing/hextra v0.12.0 // indirect
