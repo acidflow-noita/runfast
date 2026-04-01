@@ -1,19 +1,25 @@
 ---
-title: "NoitaMap Companion Mod"
+title: 'NoitaMap Companion Mod'
 date: 2024-10-26T10:37:53+06:00
 type: docs
 draft: false
 ---
 
-{{< callout type="warning" >}}
-  Currently it is impossible to generate the map for the seed you are playing, so the map will stay the same, but the location will be precise.
+{{< callout type="important" >}}
+Press `M` key on your keyboard to open [NoitaMap](https://noitamap.com) with the map of your current run at your current location in the world.
+
+The map knows about your progress (spell unlocks).
+
+Daily run map generation is also supported!
 {{< /callout >}}
 
-## TLDR: Press `M` on your keyboard to open a new browser window with [NoitaMap](https://noitamap.com/) at your location in the game
+## TLDR: Press `M` on your keyboard to open a new browser window with [NoitaMap](https://noitamap.com/) with the map of _your_ current run!
 
 <br>
 
-{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/2.0/noitamap.zip" >}}
+{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/3.0/noitamap.zip" >}}
+
+## How to use the mod
 
 {{% steps %}}
 
@@ -24,6 +30,7 @@ Download the latest release from [GitHub](https://github.com/acidflow-noita/noit
 ### Install
 
 Uncompress `noitamap.zip` and move the `noitamap` folder into the `mods` folder in Noita (Steam ➔ right click Noita ➔ Local files), or copy and paste the path into Windows Explorer:
+
 ```plaintext {filename="Noita Mods Location"}
 C:\Program Files (x86)\Steam\steamapps\common\Noita\mods
 ```
@@ -50,17 +57,27 @@ C:\Program Files (x86)\Steam\steamapps\common\Noita\mods
 ### Enable
 
 Launch Noita, click "Mods", click "Unsafe mods: Disabled", click "Yes" (this is due to deeper game integration requirements), click on "Noita Map" in the mods list so it shows `[x]`.
-![NoitaMap Mod Enabled](images/noitamap_mod_enabled.png)
+![NoitaMap Mod Enabled](images/enable_noitamap_mod.png)
 
-### Extra step: Adjust Settings
+### (_optional_) Turn on "Pause the game when focused" option in the settings.
+
+![Noita pause setting](images/pause_setting.png)
+
+### Press `M` mid-run to open the map of your run!
+
+### Extra step: adjust settings
 
 Adjust mod settings to your liking: you can choose from one of the sounds, and even disable the map opening, that way you get a sound board.
 ![NoitaMap Mod Settings](images/noitamap_mod_settings.png)
 
-### Enjoy!
-
-Press `M` mid-run to open the map at your current location.
-
-Have fun, run fast and throw hard!
-
 {{% /steps %}}
+
+## FAQ
+
+### When will you publish the mod on the Steam Workshop
+
+I am unable to do so: NoitaMap mod requires elevated mod permissions (this is an "unsafe" mod). Unsafe mods are not allowed on the Workshop.
+
+## Credits
+
+Huge thanks to [Horscht](https://github.com/TheHorscht) and [Dexter](https://github.com/dextercd) for their help.
