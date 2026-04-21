@@ -176,3 +176,5 @@ https://blog.rahix.de/design-for-3d-printing/
 1. The lid does not firmy click in place. Again, the dovetail is good enough for a static box, but may be improved.
 
 ## Notes
+
+TBA
