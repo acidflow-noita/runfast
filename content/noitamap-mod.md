@@ -17,7 +17,7 @@ Daily run map generation is also supported!
 
 <br>
 
-{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/3.0/noitamap.zip" >}}
+{{< hextra/hero-button text="Download" link="https://github.com/acidflow-noita/noitamap-mod/releases/download/4.1/noitamap.zip" >}}
 
 ## How to use the mod
 
