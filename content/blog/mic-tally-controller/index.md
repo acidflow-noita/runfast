@@ -1,7 +1,7 @@
 ---
 title: Mic Tally Controller
 date: 2025-08-29
-draft: true
+draft: false
 width: wide
 authors:
     - name: WUOTE
@@ -15,6 +15,8 @@ tags:
     - Arduino
 excludeSearch: false
 ---
+
+# THIS IS STILL A VERY ROUGH DRAFT TEMPORARILY PUBLISHED FOR SOMEONE ELSES EMJOYMENT
 
 {{< badge content="I Cooked" icon="pot-full-icon" color="green" tagBorder=true >}}
 
