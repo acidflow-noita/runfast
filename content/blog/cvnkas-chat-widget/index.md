@@ -1,7 +1,7 @@
 ---
 title: Cvnka's stream chat widget
-date: 2026-06-09
-draft: true
+date: 2026-06-14
+draft: false
 width: wide
 authors:
     - name: WUOTE
