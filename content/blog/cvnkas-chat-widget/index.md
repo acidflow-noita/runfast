@@ -3,6 +3,9 @@ title: Cvnka's stream chat widget
 date: 2026-06-14
 draft: false
 width: wide
+params:
+    images:
+        - 'assets/opengraph_preview.png'
 authors:
     - name: WUOTE
       link: https://github.com/WUOTE
