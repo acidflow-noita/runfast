@@ -3,6 +3,9 @@ title: 'NoitaMap Companion Mod'
 date: 2024-10-26T10:37:53+06:00
 type: docs
 draft: false
+params:
+    images:
+        - 'images/noitamap-mod-opengraph.png'
 ---
 
 {{< callout type="important" >}}
