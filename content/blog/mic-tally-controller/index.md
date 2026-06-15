@@ -107,11 +107,11 @@ https://www.youtube.com/watch?v=zc3cbLncmp0
 
 Here are the drawings of the tally controller:
 
-{{< pdf "assets/CAD/Mic Tally Enclosure Drawing.pdf" >}}
+{{< pdf "assets/CAD/Mic_Tally_Enclosure_Drawing.pdf" >}}
 
 <br />
 
-{{< hextra/hero-button text="Download PDF" link="https://runfast.stream/blog/mic-tally-controller/assets/Mic%20Tally%20Enclosure%20Drawing.pdf" >}}
+{{< hextra/hero-button text="Download PDF" link="assets/CAD/Mic_Tally_Enclosure_Drawing.pdf" >}}
 
 ## The Blogpost
 
