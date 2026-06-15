@@ -24,9 +24,7 @@ excludeSearch: false
 
 Below is not a gif, its a live 3D model renderer which you can rotate via {{< icon "left-click-icon" >}}left click, move around via {{< icon "right-click-icon" >}}right click, and zoom in and out using the mousewheel. Give it a try.
 
-> Here will be a live 3d rendederer after i reallocate the assets to stop making cloudflare angry.
-
-<!-- {{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}} -->
+{{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
 
 ## Speedrun
 
