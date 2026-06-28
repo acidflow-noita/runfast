@@ -92,7 +92,7 @@ export async function manualBreathing(
     env: Env,
     update: EmoteUpdate
 ): Promise<any> {
-    const variables = {
+    const variables: Record<string, unknown> = {
         id: update.emoteSetId,
         action: update.action,
     };

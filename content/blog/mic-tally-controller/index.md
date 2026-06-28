@@ -1,7 +1,7 @@
 ---
 title: Mic Tally Controller
 date: 2025-08-29
-draft: false
+draft: true
 width: wide
 authors:
     - name: WUOTE
@@ -13,7 +13,7 @@ tags:
     - AutodeskFusion
     - 3DModeling
     - Arduino
-excludeSearch: false
+excludeSearch: true
 ---
 
 # THIS IS STILL A VERY ROUGH DRAFT TEMPORARILY PUBLISHED FOR SOMEONE ELSES EMJOYMENT
@@ -24,7 +24,7 @@ excludeSearch: false
 
 Below is not a gif, its a live 3D model renderer which you can rotate via {{< icon "left-click-icon" >}}left click, move around via {{< icon "right-click-icon" >}}right click, and zoom in and out using the mousewheel. Give it a try.
 
-{{< threejs version="0.182.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
+{{< threejs version="0.185.0" id="fbx-model" src="assets/webrender/fbx-viewer.js" >}}
 
 ## Speedrun
 

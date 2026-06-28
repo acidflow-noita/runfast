@@ -1,12 +1,12 @@
 {
     "devDependencies": {
-        "@cloudflare/workers-types": "^4.20241205.0",
-        "esbuild": "^0.24.0",
-        "typescript": "^5.7.2"
+        "@cloudflare/workers-types": "^4.20260627.1",
+        "esbuild": "^0.28.1",
+        "typescript": "^6.0.3"
     },
     "dependencies": {
-        "gql.tada": "^1.8.10",
-        "graphql-request": "^7.1.2",
-        "wrangler": "^3.109.3"
+        "gql.tada": "^1.11.2",
+        "graphql-request": "^7.4.0",
+        "wrangler": "^4.105.0"
     }
 }

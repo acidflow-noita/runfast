@@ -166,9 +166,17 @@ async function twitchCallback(request: Request, env: Env, page: PartialPage) {
     const botInfo = await gql(env).request(queries.GetCurrentUser, {});
     await page.log('Got 7tv bot editor data');
 
+    if (!botInfo.user) {
+        await finish(page, 'fail', 'Failed to get 7tv bot editor data');
+        return;
+    }
     for (const { user } of botInfo.user.editor_of) {
         for (const conn of user.connections) {
-            if (conn.platform == 'TWITCH' && conn.id == id) {
+            if (
+                conn.platform == 'TWITCH' &&
+                conn.id == id &&
+                conn.emote_set_id != null
+            ) {
                 await queueEmoteUpdates(
                     env,
                     display_name,
@@ -221,6 +229,7 @@ async function queueEmoteUpdates(
         });
         ourEmotes = new Set(emoteSet.emotes.map(({ id }) => id));
     }
+    const noitaEmotes = ourEmotes;
     await page.log('Loaded Noita emoteset into cache');
 
     const { emoteSet } = await g.request(queries.GetEmoteSet, {
@@ -229,9 +238,9 @@ async function queueEmoteUpdates(
     await page.log('Got list of user emotes');
 
     if (state == 'add') {
-        await addMissingEmotes(env, g, page, emoteSet, userName);
+        await addMissingEmotes(env, g, page, emoteSet, userName, noitaEmotes);
     } else {
-        await removePresentEmotes(env, g, page, emoteSet, userName);
+        await removePresentEmotes(env, g, page, emoteSet, userName, noitaEmotes);
     }
 }
 
@@ -268,7 +277,8 @@ async function addMissingEmotes(
     g: GraphQLClient,
     page: PartialPage,
     userEmoteSet: EmoteSet,
-    userName: string
+    userName: string,
+    ourEmotes: Set<string>
 ) {
     const missingEmotes: string[] = [];
 
@@ -321,7 +331,8 @@ async function removePresentEmotes(
     g: GraphQLClient,
     page: PartialPage,
     userEmoteSet: EmoteSet,
-    userName: string
+    userName: string,
+    ourEmotes: Set<string>
 ) {
     const userEmotes: string[] = [];
 
